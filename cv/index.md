@@ -1,20 +1,10 @@
 ---
+layout: cv
 title: My CV
 date: 2019-11-07
 category: site
 ---
 
-<!doctype html>
-<!-- https://github.com/elipapa/markdown-cv/ -->
-<html>
-<head>
-  <meta charset=utf-8 />
-  <link href="css/davewhipp-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="css/davewhipp-print.css" type="text/css" rel="stylesheet" media="print">
-</head>
-<body>
-  <div id="main">
-    <div class="container">
 
 
 # My Name
@@ -42,7 +32,3 @@ Job description.
 __Title and other info go here__
 
 
-    </div>
-  </div>
-</body>
-</html>
