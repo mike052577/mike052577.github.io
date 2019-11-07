@@ -8,9 +8,7 @@ category: site
 
 
 # Michael Hanks
-
 Quantum Information Engineering and Scientific Computing
-
 <div id="contactinfo">
 <a href="mailto:hanks@nii.ac.jp">hanks@nii.ac.jp</a>
 |
