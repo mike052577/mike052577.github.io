@@ -1,6 +1,8 @@
 ---
 layout: cv
 title: My CV
+date: 2019-11-07
+category: site
 ---
 
 # My Name
