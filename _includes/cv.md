@@ -1,11 +1,3 @@
----
-layout: cv
-title: "My CV Test"
-date: 2019-11-07
-style: davewhipp
-category: site
----
-
 
 # My Name
 
