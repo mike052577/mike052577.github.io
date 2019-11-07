@@ -1,3 +1,7 @@
+---
+layout: cv
+title: My CV
+---
 
 # My Name
 
