@@ -10,9 +10,10 @@ category: site
 # Michael Hanks
 Quantum Information Engineering and Scientific Computing
 <div id="contactinfo">
-<a href="mailto:hanks@nii.ac.jp">hanks@nii.ac.jp</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/mike052577">github: mike052577</a>
+<ul>
+  <li><a href="mailto:hanks@nii.ac.jp">hanks@nii.ac.jp</a></li>
+  <li><a href="http://github.com/mike052577">github: mike052577</a></li>
+</ul>
 </div>
 
 ## What I'm doing now
