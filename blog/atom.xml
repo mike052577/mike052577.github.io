@@ -11,13 +11,13 @@ layout: feed
 	<id>http://mike052577.github.io/blog</id>
 	<author>
 		<name>Michael Hanks</name>
-		<email>hanks@nii.ac.jp</email>
+		<email>{{ site.mailaddress }}</email>
 	</author>
 
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://hankquinlan.github.io{{ post.url }}"/>
+			<link href="http://mike052577.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 			<id>http://mike052577.github.io{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
