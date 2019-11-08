@@ -38,6 +38,7 @@ __Research Assistant, National Institute of Informatics, Japan__
 
 `2019`
 __Ph.D., Dept. of Informatics, School of Multidisciplinary Sciences, SOKENDAI, Japan__
+
 Keywords: Quantum Information Processing, Nitrogen-Vacancy Center, Silicon-Vacancy Center, Quantum Error Correction, Quantum Sensing
 Dissertation: Quantum Resource Engineering (量子情報的リソースのエンジニアリング) 
 Dissertation Advisors: Kae Nemoto, Ph.D., Ken Hayami, Ph.D., Mio Murao, Ph.D.
