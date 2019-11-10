@@ -20,13 +20,13 @@
 - year: '1982'
   title: 'Einstein coefficients, cross sections, f values, dipole moments, and all that'
   leadauthor: 'Hilborn'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1119/1.12937'
 
 - year: '1983'
   title: 'Erratum: "Einstein coefficients, cross sections, f values, dipole moments, and all that"'
   leadauthor: 'Hilborn'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1119/1.13515'
 
 - year: '2010'
@@ -86,7 +86,7 @@
 - year: '1998'
   title: 'A Silicon-Based Nuclear Spin Quantum Computer'
   leadauthor: 'Kane'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1038/30156'
 
 - year: '2013'
@@ -98,7 +98,7 @@
 - year: '2011'
   title: '"Quantum Computing: Diamond and Silicon Converge"'
   leadauthor: 'Dzurak'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1038/479047a'
 
 - year: '2011'
@@ -182,7 +182,7 @@
 - year: '2009'
   title: 'Quantum Estimation for Quantum Technology'
   leadauthor: 'Paris'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1142/s0219749909004839'
 
 - year: '2006'
@@ -350,7 +350,7 @@
 - year: '2007'
   title: 'Optical Quantum Computing'
   leadauthor: 'O'Brien'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1126/science.1142892'
 
 - year: '1998'
@@ -366,7 +366,7 @@
   doi: '10.1103/physrevb.59.2070'
 
 - year: '1999'
-  title: '
+  title: ''
   leadauthor: 'Imamo\u{g}lu'
   trailauthor: 'Small'
   doi: '10.1103/physrevlett.83.4204'
@@ -596,19 +596,19 @@
 - year: '1996'
   title: 'A fast quantum mechanical algorithm for database search'
   leadauthor: 'Grover'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1145/237814.237866'
 
 - year: '1994'
   title: 'Algorithms for quantum computation: Discrete logarithms and factoring'
   leadauthor: 'Shor'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1109/sfcs.1994.365700'
 
 - year: '1994'
   title: 'On the Power of Quantum Computation'
   leadauthor: 'Simon'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1109/sfcs.1994.365701'
 
 - year: '1992'
@@ -632,7 +632,7 @@
 - year: '1982'
   title: 'Simulating physics with computers'
   leadauthor: 'Feynman'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1007/bf02650179'
 
 - year: '2012'
@@ -656,13 +656,13 @@
 - year: '1983'
   title: 'Conjugate coding'
   leadauthor: 'Wiesner'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1145/1008908.1008920'
 
 - year: '1926'
   title: 'An Undulatory Theory of the Mechanics of Atoms and Molecules'
   leadauthor: 'Schr\"{o}dinger'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1103/physrev.28.1049'
 
 - year: '2008'
@@ -686,7 +686,7 @@
 - year: '2000'
   title: 'Vibronic spectra of impurity-related optical centers in diamond'
   leadauthor: 'Zaitsev'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1103/physrevb.61.12909'
 
 - year: '2016'
@@ -740,7 +740,7 @@
 - year: '1976'
   title: 'The "transition probability" in the state space of a *-algebra'
   leadauthor: 'Uhlmann'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1016/0034-4877(76)90060-4'
 
 - year: '1985'
@@ -806,7 +806,7 @@
 - year: '2014'
   title: 'Fault-tolerant thresholds for quantum error correction with the surface code'
   leadauthor: 'Stephens'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1103/physreva.89.022321'
 
 - year: '2014'
@@ -956,7 +956,7 @@
 - year: '1974'
   title: 'Vibronic spectra in diamond'
   leadauthor: 'Davies'
-  trailauthor: '
+  trailauthor: ''
   doi: '10.1088/0022-3719/7/20/019'
 
 - year: '2014'
@@ -1047,8 +1047,8 @@
   title: 'The excited state structure of the nitrogen-vacancy center in diamond'
   leadauthor: 'Tamarat'
   trailauthor: 'Wrachtrup'
-  doi: '
-  arxiv: cond-mat/0610357v1'
+  doi: ''
+  arxiv: 'cond-mat/0610357v1'
 
 - year: '2009'
   title: 'Time-averaging within the excited state of the nitrogen-vacancy centre in diamond'
