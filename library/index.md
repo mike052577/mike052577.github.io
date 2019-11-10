@@ -18,17 +18,14 @@ Let's see if headers and links work together.
 | Year | Title | First Author | Last Author | Identifier | Bibtex Link |
 |:----:| ----- |:------------:|:-----------:|:----------:|:-----------:|
 {% for document in documentsByYear %}
-  {% if document.doi %}
-    {% assign identifierlink = <a href="https://doi.org/{{ document.doi }}" >{{ document.doi }}</a> %}
-    {% assign bibtexlink = <a href="https://api.crossref.org/works/doi:{{ document.doi }}/transform/application/x-bibtex" >Bibtex</a> %}
-  {% elsif document.arxiv %}
-    {% assign identifierlink = <a href="https://arxiv.org/abs/{{ document.arxiv }}" >{{ document.arxiv }}</a> %}
-    {% assign bibtexlink = "" %}
+  {% if document.doi != "" %}
+    | {{ document.year }} | {{ document.title }} | {{ document.leadauthor }} | {{ document.trailauthor }} | <a href="https://doi.org/{{ document.doi }}" >{{ document.doi }}</a> | <a href="https://api.crossref.org/works/doi:{{ document.doi }}/transform/application/x-bibtex" >Bibtex</a> |
+  {% elsif document.arxiv != "" %}
+    {% assign identifierlink =  %}
+    | {{ document.year }} | {{ document.title }} | {{ document.leadauthor }} | {{ document.trailauthor }} | <a href="https://arxiv.org/abs/{{ document.arxiv }}" >{{ document.arxiv }}</a> |   |
   {% else %}
-    {% assign identifierlink = "" %}
-    {% assign bibtexlink = "" %}
+    | {{ document.year }} | {{ document.title }} | {{ document.leadauthor }} | {{ document.trailauthor }} |   |   |
   {% endif %}
-  | {{ document.year }} | {{ document.title }} | {{ document.leadauthor }} | {{ document.trailauthor }} | {{ identifierlink }} | {{ bibtexlink }} |
 {% endfor %}
 
 
