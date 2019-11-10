@@ -4,7 +4,6 @@ title: Library
 format: kjhealy
 ---
 
-\newcommand[1]{\wrap}{#1}
 
 This is the default library page, and will contain links to topic collections.
 
