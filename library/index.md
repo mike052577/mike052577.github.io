@@ -16,12 +16,12 @@ Let's see if headers and links work together.
 {% for document in documentsByYear %}
   `{{ document.year }}`
   __{{ document.title }}__<br/>
-  {{ document.leadauthor }} - {{ document.trailauthor }}<br/>
+  {{ document.leadauthor }}{% if document.trailauthor != "" %} - {{ document.trailauthor }} {% endif %}<br/>
   {% if document.doi != "" %}
-    [{{ document.doi }}]("https://doi.org/{{ document.doi }}")
-    [Bibtex]("https://api.crossref.org/works/doi:{{ document.doi }}/transform/application/x-bibtex")
+    [{{ document.doi }}](https://doi.org/{{ document.doi }})
+    [Bibtex](https://api.crossref.org/works/doi:{{ document.doi }}/transform/application/x-bibtex)
   {% elsif document.arxiv != "" %}
-    [{{ document.arxiv }}]("https://arxiv.org/abs/{{ document.arxiv }}")
+    [{{ document.arxiv }}](https://arxiv.org/abs/{{ document.arxiv }})
   {% endif %}
 
 {% endfor %}
