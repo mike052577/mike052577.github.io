@@ -14,7 +14,7 @@ Let's see if headers and links work together.
 {% assign documentsByYear = site.data.testRefCollection | sort: "year" %}
 
 {% for document in documentsByYear %}
-  `{{ document.year }}`<br/>
+  `{{ document.year }}`
   __{{ document.title }}__<br/>
   {{ document.leadauthor }} - {{ document.trailauthor }}<br/>
   {% if document.doi != "" %}
