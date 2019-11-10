@@ -6,7 +6,7 @@ layout: default
 
 Have I missed a paper? Misspelt a name? <a href="mailto:{{ site.mailaddress }}">Let me know.</a>
 
-{% assign documentsByYear = site.data.{{ page.document_data }} | sort: "year" %}
+{% assign documentsByYear = site.data.{{ page.documentdata }} | sort: "year" %}
 
 | Year | Title | First Author | Last Author | Identifier | Bibtex Link |
 |:----:| ----- |:------------:|:-----------:|:----------:|:-----------:|
