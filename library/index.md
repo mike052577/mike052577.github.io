@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: cv
 title: Library
-documentdata: testRefCollection
 ---
-
 
 
 
@@ -15,17 +13,17 @@ Let's see if headers and links work together.
 
 {% assign documentsByYear = site.data.testRefCollection | sort: "year" %}
 
-| Year | Title | First Author | Last Author | Identifier | Bibtex Link |
-|:----:| ----- |:------------:|:-----------:|:----------:|:-----------:|
 {% for document in documentsByYear %}
+  `{{ document.year }}`<br/>
+  __{{ document.title }}__<br/>
+  {{ document.leadauthor }} - {{ document.trailauthor }}<br/>
   {% if document.doi != "" %}
-    | {{ document.year }} | {{ document.title }} | {{ document.leadauthor }} | {{ document.trailauthor }} | <a href="https://doi.org/{{ document.doi }}" >{{ document.doi }}</a> | <a href="https://api.crossref.org/works/doi:{{ document.doi }}/transform/application/x-bibtex" >Bibtex</a> |
+    <a href="https://doi.org/{{ document.doi }}" >{{ document.doi }}</a><br/>
+    <a href="https://api.crossref.org/works/doi:{{ document.doi }}/transform/application/x-bibtex" >Bibtex</a>
   {% elsif document.arxiv != "" %}
-    {% assign identifierlink =  %}
-    | {{ document.year }} | {{ document.title }} | {{ document.leadauthor }} | {{ document.trailauthor }} | <a href="https://arxiv.org/abs/{{ document.arxiv }}" >{{ document.arxiv }}</a> |   |
-  {% else %}
-    | {{ document.year }} | {{ document.title }} | {{ document.leadauthor }} | {{ document.trailauthor }} |   |   |
+    <a href="https://arxiv.org/abs/{{ document.arxiv }}" >{{ document.arxiv }}</a>
   {% endif %}
+
 {% endfor %}
 
 
