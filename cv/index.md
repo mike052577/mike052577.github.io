@@ -3,6 +3,7 @@ layout: cv
 title: CV
 date: 2019-11-07
 category: site
+format: davewhipp
 ---
 
 
