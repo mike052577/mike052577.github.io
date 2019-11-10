@@ -18,10 +18,10 @@ Let's see if headers and links work together.
   __{{ document.title }}__<br/>
   {{ document.leadauthor }} - {{ document.trailauthor }}<br/>
   {% if document.doi != "" %}
-    <a href="https://doi.org/{{ document.doi }}" >{{ document.doi }}</a><br/>
-    <a href="https://api.crossref.org/works/doi:{{ document.doi }}/transform/application/x-bibtex" >Bibtex</a>
+    [{{ document.doi }}]("https://doi.org/{{ document.doi }}")
+    [Bibtex]("https://api.crossref.org/works/doi:{{ document.doi }}/transform/application/x-bibtex")
   {% elsif document.arxiv != "" %}
-    <a href="https://arxiv.org/abs/{{ document.arxiv }}" >{{ document.arxiv }}</a>
+    [{{ document.arxiv }}]("https://arxiv.org/abs/{{ document.arxiv }}")
   {% endif %}
 
 {% endfor %}
