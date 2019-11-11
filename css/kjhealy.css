@@ -3,6 +3,10 @@
    License: none (public domain)
 */
 
+/*
+  Increased code font size to 90%.
+*/
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -71,7 +75,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
