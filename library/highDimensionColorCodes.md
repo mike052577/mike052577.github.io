@@ -7,7 +7,7 @@ date: 2019/11/12
 
 
 
-## High-Dimension ($d>2$) Color Codes
+## High-Dimension (d>2) Color Codes
 
 This list was last updated on {{ page.date }}.
 
