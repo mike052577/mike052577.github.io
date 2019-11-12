@@ -7,11 +7,13 @@ title: Library
 
 This is the default library page, and will contain links to topic collections.
 
-## [Gauge Fixing](/library/gaugeFixing)
 
-## [High-Dimension Color Codes](/library/highDimensionColorCodes)
 
-## [Quantum Reed-Muller Codes](/library/quantumReedMullerCodes)
+### Quantum Error Correction
+
+- [Gauge Fixing](/library/gaugeFixing)
+- [High-Dimension Color Codes](/library/highDimensionColorCodes)
+- [Quantum Reed-Muller Codes](/library/quantumReedMullerCodes)
 
 
 # A few test collections
