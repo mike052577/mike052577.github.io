@@ -11,6 +11,8 @@ This is the default library page, and will contain links to topic collections.
 
 ## [High-Dimension Color Codes](/library/highDimensionColorCodes)
 
+## [Quantum Reed-Muller Codes](/library/quantumReedMullerCodes)
+
 
 # A few test collections
 
