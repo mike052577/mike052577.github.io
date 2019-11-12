@@ -9,7 +9,7 @@ This is the default library page, and will contain links to topic collections.
 
 
 
-### Quantum Error Correction
+### [Quantum Error Correction](/library/quantumErrorCorrection)
 
 - [Gauge Fixing](/library/gaugeFixing)
 - [High-Dimension (d>2) Color Codes](/library/highDimensionColorCodes)
