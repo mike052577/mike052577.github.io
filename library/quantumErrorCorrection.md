@@ -9,7 +9,7 @@ date: 2019/11/12
 
 ## Quantum Error Correction
 
-This list was last updated on {{ page.date }}.
+This list is formed from its component topics on the [library](/library) main page; please refer to those individual lists for the dates on which they were last updated.
 
 {% assign documentsByYear = site.data.quantumReedMullerCodes | concat: site.data.highDimensionColorCodes | concat: site.data.gaugeFixing | uniq | sort: "year" %}
 
