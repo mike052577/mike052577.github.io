@@ -1,0 +1,44 @@
+
+
+
+- year: '2013'
+  title: 'Universal Fault-Tolerant Quantum Computation with Only Transversal Gates and Error Correction'
+  leadauthor: 'Paetznick'
+  trailauthor: 'Reichardt'
+  doi: '10.1103/physrevlett.111.090505'
+
+- year: '2014'
+  title: 'Fault-Tolerant Conversion between the Steane and Reed-Muller Quantum Codes'
+  leadauthor: 'Anderson'
+  trailauthor: 'Poulin'
+  doi: '10.1103/physrevlett.113.080501'
+
+- year: '2015'
+  title: 'Gauge color codes: optimal transversal gates and gauge fixing in topological stabilizer codes'
+  leadauthor: 'Bombin'
+  trailauthor: ''
+  doi: '10.1088/1367-2630/17/8/083002'
+
+- year: '2015'
+  title: 'Universal transversal gates with color codes: A simplified approach'
+  leadauthor: 'Kubica'
+  trailauthor: 'Beverland'
+  doi: '10.1103/physreva.91.032330'
+
+- year: '2016'
+  title: 'Gauge color codes in two dimensions'
+  leadauthor: 'Jones'
+  trailauthor: 'Harrington'
+  doi: '10.1103/PhysRevA.93.052332'
+
+- year: '2018'
+  title: 'Fault-tolerant conversion between adjacent Reed–Muller quantum codes based on gauge fixing'
+  leadauthor: 'Quan'
+  trailauthor: 'Sanders'
+  doi: '10.1088/1751-8121/aaad13'
+
+- year: '2019'
+  title: 'Universal fault-tolerant quantum computation using fault-tolerant conversion schemes'
+  leadauthor: 'Luo'
+  trailauthor: 'Ma'
+  doi: '10.1088/1367-2630/ab3378'

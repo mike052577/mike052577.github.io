@@ -1,0 +1,74 @@
+
+- year: '2015'
+  title: 'Unfolding the color code'
+  leadauthor: 'Kubica'
+  trailauthor: 'Pastawski'
+  doi: '10.1088/1367-2630/17/8/083026'
+
+- year: '2015'
+  title: 'Gauge color codes: optimal transversal gates and gauge fixing in topological stabilizer codes'
+  leadauthor: 'Bombin'
+  trailauthor: ''
+  doi: '10.1088/1367-2630/17/8/083002'
+
+- year: '2015'
+  title: 'Universal transversal gates with color codes: A simplified approach'
+  leadauthor: 'Kubica'
+  trailauthor: 'Beverland'
+  doi: '10.1103/physreva.91.032330'
+
+- year: '2015'
+  title: 'Qudit color codes and gauge color codes in all spatial dimensions'
+  leadauthor: 'Watson'
+  trailauthor: 'Browne'
+  doi: '10.1103/PhysRevA.92.022312'
+
+- year: '2015'
+  title: 'Single-Shot Fault-Tolerant Quantum Error Correction'
+  leadauthor: 'Bombin'
+  trailauthor: ''
+  doi: '10.1103/PhysRevX.5.031043'
+
+- year: '2016'
+  title: 'Fault-tolerant error correction with the gauge color code'
+  leadauthor: 'Brown'
+  trailauthor: 'Browne'
+  doi: '10.1038/ncomms12302'
+
+- year: '2016'
+  title: 'Stacked codes: Universal fault-tolerant quantum computation in a two-dimensional layout'
+  leadauthor: 'Jochym-O''Connor'
+  trailauthor: 'Bartlett'
+  doi: '10.1088/1367-2630/18/4/043038'
+
+- year: '2016'
+  title: 'Dimensional jump in quantum error correction'
+  leadauthor: 'Bombin'
+  trailauthor: ''
+  doi: '10.1088/1367-2630/18/4/043038'
+
+- year: '2016'
+  title: 'Gauge color codes in two dimensions'
+  leadauthor: 'Jones'
+  trailauthor: 'Harrington'
+  doi: '10.1103/PhysRevA.93.052332'
+
+- year: '2017'
+  title: 'Roads towards fault-tolerant universal quantum computation'
+  leadauthor: 'Campbell'
+  trailauthor: 'Vuillot'
+  doi: '10.1038/nature23460'
+
+- year: '2018'
+  title: 'Projecting three-dimensional color codes onto three-dimensional toric codes'
+  leadauthor: 'Aloshious'
+  trailauthor: 'Sarvepalli'
+  doi: '10.1103/PhysRevA.98.012302'
+
+- year: '2018'
+  title: 'Three-Dimensional Color Code Thresholds via Statistical-Mechanical Mapping'
+  leadauthor: 'Kubica'
+  trailauthor: 'Svore'
+  doi: '10.1103/PhysRevLett.120.180501'
+
+

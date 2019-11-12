@@ -333,6 +333,83 @@
   doi: ''
   arxiv: '1304.6100'
 
+- year: '2019'
+  title: 'Canonical forms for single-qutrit Clifford plus T operators'
+  leadauthor: 'Glaudell'
+  trailauthor: 'Taylor'
+  doi: '10.1016/j.aop.2019.04.001'
+
+- year: '2019'
+  title: 'Three-dimensional surface codes: Transversal gates and fault-tolerant architectures'
+  leadauthor: 'Vasmer'
+  trailauthor: 'Browne'
+  doi: '10.1103/PhysRevA.100.012312'
+
+- year: '2019'
+  title: 'A theory of single-shot error correction for adversarial noise'
+  leadauthor: 'Campbell'
+  trailauthor: ''
+  doi: '10.1088/2058-9565/aafc8f'
+
+- year: '2019'
+  title: 'Really Small Shoe Boxes: On Realistic Quantum Resource Estimation'
+  leadauthor: 'Paler'
+  trailauthor: 'Devitt'
+  doi: '10.1109/MC.2019.2908621'
+
+- year: '2017'
+  title: 'Taming the Instruction Bandwidth of Qantum Computers via Hardware-Managed Error Correction'
+  leadauthor: 'Tannu'
+  trailauthor: 'Qureshi'
+  doi: '10.1145/3123939.3123940'
+
+- year: '2017'
+  title: 'Work sharing of qubits in topological error corrections'
+  leadauthor: 'Tanamoto'
+  trailauthor: 'Goto'
+  doi: '10.1103/PhysRevA.96.022324'
+
+- year: '2016'
+  title: 'Universal Fault-Tolerant Gates on Concatenated Stabilizer Codes'
+  leadauthor: 'Yoder'
+  trailauthor: 'Chuang'
+  doi: '10.1103/PhysRevX.6.031039'
+
+- year: '2018'
+  title: 'Rewiring stabilizer codes'
+  leadauthor: 'Colladay'
+  trailauthor: 'Mueller'
+  doi: '10.1088/1367-2630/aad8dd'
+
+- year: '2019'
+  title: 'Cellular-Automaton Decoders with Provable Thresholds for Topological Codes'
+  leadauthor: 'Kubica'
+  trailauthor: 'Preskill'
+  doi: '10.1103/PhysRevLett.123.020501'
+
+- year: '2018'
+  title: 'Towers of generalized divisible quantum codes'
+  leadauthor: 'Haah'
+  trailauthor: ''
+  doi: '10.1103/PhysRevA.97.042327'
+
+- year: '2017'
+  title: 'Fault-tolerant interface between quantum memories and quantum processors'
+  leadauthor: 'Nautrup'
+  trailauthor: 'Briegel'
+  doi: '10.1038/s41467-017-01418-2'
+
+- year: '2017'
+  title: 'Fault-tolerant preparation of stabilizer states for quantum Calderbank-Shor-Steane codes by classical error-correcting codes'
+  leadauthor: 'Lai'
+  trailauthor: 'Brun'
+  doi: '10.1103/PhysRevA.95.032339'
+
+- year: '2017'
+  title: 'The engineering challenges in quantum computing'
+  leadauthor: 'Almudever'
+  trailauthor: 'Bertels'
+  doi: '10.23919/DATE.2017.7927104'
 
 
 
