@@ -17,6 +17,8 @@ This is the default library page, and will contain links to topic collections.
 
 ### Diamond
 
+#### Group-IV Defects
+
 - [The Negatively-Charged Silicon–Vacancy Center](/library/diamond-siv-negative)
 - [The Negatively-Charged Germanium–Vacancy Center](/library/diamond-gev-negative)
 
