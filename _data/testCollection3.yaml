@@ -417,4 +417,10 @@
   trailauthor: 'Wehner'
   doi: '10.1088/1367-2630/aac54f'
 
+- year: '2015'
+  title: 'Holographic quantum error-correcting codes: Toy models for the bulk/boundary correspondence'
+  leadauthor: 'Pastawski'
+  trailauthor: 'Preskill'
+  doi: '10.1007/jhep06(2015)149'
+
 
