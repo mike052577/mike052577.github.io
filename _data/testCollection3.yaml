@@ -411,6 +411,10 @@
   trailauthor: 'Bertels'
   doi: '10.23919/DATE.2017.7927104'
 
-
+- year: '2018'
+  title: 'Fermion-to-qubit mappings with varying resource requirements for quantum simulation '
+  leadauthor: 'Steudtner'
+  trailauthor: 'Wehner'
+  doi: '10.1088/1367-2630/aac54f'
 
 
