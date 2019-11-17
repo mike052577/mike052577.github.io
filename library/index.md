@@ -15,12 +15,11 @@ This is the default library page, and will contain links to topic collections.
 - [High-Dimension (d>2) Color Codes](/library/highDimensionColorCodes)
 - [Quantum Reed-Muller Codes](/library/quantumReedMullerCodes)
 
-### Diamond
+### Diamond Defects
 
-#### Group-IV Defects
-
-- [The Negatively-Charged Silicon–Vacancy Center](/library/diamond-siv-negative)
-- [The Negatively-Charged Germanium–Vacancy Center](/library/diamond-gev-negative)
+- [Negative Nitrogen–Vacancy Center](/library/diamond-nv-negative)
+- [Negative Silicon–Vacancy Center](/library/diamond-siv-negative)
+- [Negative Germanium–Vacancy Center](/library/diamond-gev-negative)
 
 
 
