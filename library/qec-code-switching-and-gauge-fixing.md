@@ -7,11 +7,11 @@ date: 2019/11/12
 
 
 
-## Gauge Fixing
+## Code Switching and Gauge Fixing
 
 This list was last updated on {{ page.date }}.
 
-{% assign documentsByYear = site.data.gaugeFixing | sort: "year" %}
+{% assign documentsByYear = site.data.qec-code-switching-and-gauge-fixing | sort: "year" %}
 
 {% for document in documentsByYear %}
   `{{ document.year }}`

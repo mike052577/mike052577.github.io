@@ -9,11 +9,11 @@ This is the default library page, and will contain links to topic collections.
 
 
 
-### [Quantum Error Correction](/library/quantumErrorCorrection)
+### Quantum Error Correction
 
-- [Gauge Fixing](/library/gaugeFixing)
-- [High-Dimension (d>2) Color Codes](/library/highDimensionColorCodes)
-- [Quantum Reed-Muller Codes](/library/quantumReedMullerCodes)
+- [Code Switching and Gauge Fixing](/library/qec-code-switching-and-gauge-fixing)
+- [High-Dimension (d>2) Color Codes](/library/qec-high-dimension-color-codes)
+- [Quantum Reed-Muller Codes](/library/qec-quantum-reed-muller)
 
 ### Diamond Defects
 

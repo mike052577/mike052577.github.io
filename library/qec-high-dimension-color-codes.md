@@ -7,11 +7,11 @@ date: 2019/11/12
 
 
 
-## Quantum Reed-Muller Codes
+## High-Dimension (d>2) Color Codes
 
 This list was last updated on {{ page.date }}.
 
-{% assign documentsByYear = site.data.quantumReedMullerCodes | sort: "year" %}
+{% assign documentsByYear = site.data.qec-high-dimension-color-codes | sort: "year" %}
 
 {% for document in documentsByYear %}
   `{{ document.year }}`
