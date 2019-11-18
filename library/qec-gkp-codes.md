@@ -11,7 +11,7 @@ date: 2019/11/18
 
 This list was last updated on {{ page.date }}.
 
-{% assign documentsByYear = site.data.qec-gkp-codes | sort: "year" %}
+{% assign documentsByYear = site.data.qec-gkp-codes | uniq | sort: "year" %}
 
 {% for document in documentsByYear %}
   `{{ document.year }}`
