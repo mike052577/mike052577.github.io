@@ -106,11 +106,83 @@
   trailauthor: 'Tombesi'
   doi: '10.1209/epl/i2004-10203-9'
 
-# Sourced up to the end of 2004
+- year: '2005'
+  title: 'Quantum information with continuous variables'
+  leadauthor: 'Braunstein'
+  trailauthor: 'van Loock'
+  doi: '10.1103/RevModPhys.77.513'
 
+- year: '2005'
+  title: 'Preparation of macroscopic quantum superposition states of a cavity field via coupling to a superconducting charge qubit'
+  leadauthor: 'Liu'
+  trailauthor: 'Nori'
+  doi: '10.1103/PhysRevA.71.063820'
 
+- year: '2005'
+  title: 'Engineering superpositions of coherent states in coherent optical pulses through cavity-assisted interaction'
+  leadauthor: 'Wang'
+  trailauthor: 'Duan'
+  doi: '10.1103/PhysRevA.72.022320'
 
+- year: '2006'
+  title: 'Error analysis for encoding a qubit in an oscillator'
+  leadauthor: 'Glancy'
+  trailauthor: 'Knill'
+  doi: '10.1103/PhysRevA.73.012325'
 
+- year: '2006'
+  title: 'Continuous variable encoding by ponderomotive interaction'
+  leadauthor: 'Pirandola'
+  trailauthor: 'Tombesi'
+  doi: '10.1140/epjd/e2005-00306-3'
 
+- year: '2006'
+  title: 'Quantum logical states and operators for Josephson-like systems'
+  leadauthor: 'Faoro'
+  trailauthor: 'Rasetti'
+  doi: '10.1088/0305-4470/39/5/L01'
 
+- year: '2006'
+  title: 'Generating continuous variable quantum codewords in the near-field atomic lithography'
+  leadauthor: 'Pirandola'
+  trailauthor: 'Tombesi'
+  doi: '10.1088/0953-4075/39/4/023'
+
+- year: '2006'
+  title: 'Practical purification scheme for decohered coherent-state superpositions via partial homodyne detection'
+  leadauthor: 'Suzuki'
+  trailauthor: 'Kannari'
+  doi: '10.1103/PhysRevA.73.042304'
+
+- year: '2006'
+  title: 'Quantum optical systems for the implementation of quantum information processing'
+  leadauthor: 'Ralph'
+  trailauthor: ''
+  doi: '10.1088/0034-4885/69/4/R01'
+
+- year: '2007'
+  title: 'Conditional generation of an arbitrary superposition of coherent states'
+  leadauthor: 'Takeoka'
+  trailauthor: 'Sasaki'
+  doi: '10.1103/PhysRevA.75.064302'
+
+- year: '2007'
+  title: 'On the generation of a generalized superposition of displaced squeezed states'
+  leadauthor: 'Weber'
+  trailauthor: 'Baseia'
+  doi: '10.1016/j.optcom.2007.03.012'
+
+- year: '2007'
+  title: 'Preparation and manipulation of a fault-tolerant superconducting qubit'
+  leadauthor: 'Cholascinski'
+  trailauthor: 'Schoen'
+  doi: '10.1103/PhysRevB.76.064501'
+
+- year: '2007'
+  title: 'Demonstration of deterministic and high fidelity squeezing of quantum information'
+  leadauthor: 'Yoshikawa'
+  trailauthor: 'Furusawa'
+  doi: '10.1103/PhysRevA.76.060301'
+
+# List complete until the end of 2007
 

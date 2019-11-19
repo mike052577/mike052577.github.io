@@ -9,6 +9,11 @@ This is the default library page, and will contain links to topic collections.
 
 
 
+
+### Quantum Metrology
+
+- [Mitigating Noise](/library/qmetrology-mitigate-noise)
+
 ### Quantum Error Correction
 
 - [Code Switching and Gauge Fixing](/library/qec-code-switching-and-gauge-fixing)

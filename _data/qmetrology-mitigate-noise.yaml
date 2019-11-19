@@ -1,0 +1,135 @@
+
+
+
+- year: '2013'
+  title: 'Heisenberg limited metrology using Quantum Error-Correction Codes'
+  leadauthor: 'Ozeri'
+  trailauthor: ''
+  doi: ''
+  arxiv: '1310.3432'
+
+- year: '2014'
+  title: 'Increasing sensing resolution with error correction'
+  leadauthor: 'Arrad'
+  trailauthor: 'Retzker'
+  doi: '10.1103/physrevlett.112.150801'
+
+- year: '2014'
+  title: 'Quantum error correction for metrology'
+  leadauthor: 'Kessler'
+  trailauthor: 'Lukin'
+  doi: '10.1103/physrevlett.112.150802'
+
+- year: '2014'
+  title: 'Improved quantum metrology using quantum error correction'
+  leadauthor: 'Duer'
+  trailauthor: 'Kraus'
+  doi: '10.1103/physrevlett.112.080801'
+
+- year: '2014'
+  title: 'Using Entanglement Against Noise in Quantum Metrology'
+  leadauthor: 'Demkowicz-Dobrzanski'
+  trailauthor: 'Maccone'
+  doi: '10.1103/PhysRevLett.113.250801'
+
+- year: '2015'
+  title: 'Robust quantum metrological schemes based on protection of quantum Fisher information'
+  leadauthor: 'Lu'
+  trailauthor: 'Oh'
+  doi: '10.1038/ncomms8282'
+
+- year: '2015'
+  title: 'Quantum Error-Correction-Enhanced Magnetometer Overcoming the Limit Imposed by Relaxation'
+  leadauthor: 'Herrera-Marti'
+  trailauthor: 'Retzker'
+  doi: '10.1103/PhysRevLett.115.200501'
+
+- year: '2015'
+  title: 'Quantum metrology: Heisenberg limit with bound entanglement'
+  leadauthor: 'Czekaj'
+  trailauthor: 'Horodecki'
+  doi: '10.1103/PhysRevA.92.062303'
+
+- year: '2016'
+  title: 'Quantum metrology enhanced by repetitive quantum error correction'
+  leadauthor: 'Unden'
+  trailauthor: 'Jelezko'
+  doi: '10.1103/physrevlett.116.230502'
+
+- year: '2016'
+  title: 'Dynamical decoupling leads to improved scaling in noisy quantum metrology'
+  leadauthor: 'Sekatski'
+  trailauthor: 'Duer'
+  doi: '10.1088/1367-2630/18/7/073034'
+
+- year: '2016'
+  title: 'Usefulness of entanglement-assisted quantum metrology'
+  leadauthor: 'Huang'
+  trailauthor: 'Maccone'
+  doi: '10.1103/PhysRevA.94.012101'
+
+- year: '2017'
+  title: 'Magnetic-field sensing with quantum error detection under the effect of energy relaxation'
+  leadauthor: 'Matsuzaki'
+  trailauthor: 'Benjamin'
+  doi: '10.1103/PhysRevA.95.032303'
+
+- year: '2017'
+  title: 'Dissipative quantum error correction and application to quantum sensing with trapped ions'
+  leadauthor: 'Reiter'
+  trailauthor: 'Muschik'
+  doi: '10.1038/s41467-017-01895-5'
+
+- year: '2017'
+  title: 'Quantum metrology with full and fast quantum control'
+  leadauthor: 'Sekatski'
+  trailauthor: 'Duer'
+  doi: '10.22331/q-2017-09-06-27'
+
+- year: '2017'
+  title: 'Adaptive Quantum Metrology under General Markovian Noise'
+  leadauthor: 'Demkowicz-Dobrzanski'
+  trailauthor: 'Sekatski'
+  doi: '10.1103/PhysRevX.7.041009'
+
+- year: '2018'
+  title: 'Quantum Metrology beyond the Classical Limit under the Effect of Dephasing'
+  leadauthor: 'Matsuzaki'
+  trailauthor: 'Munro'
+  doi: '10.1103/PhysRevLett.120.140501'
+
+- year: '2018'
+  title: 'Achieving the Heisenberg limit in quantum metrology using quantum error correction'
+  leadauthor: 'Zhou'
+  trailauthor: 'Jiang'
+  doi: '10.1038/s41467-017-02510-3'
+
+- year: '2018'
+  title: 'Restoring Heisenberg scaling in noisy quantum metrology by monitoring the environment'
+  leadauthor: 'Albarelli'
+  trailauthor: 'Genoni'
+  doi: '10.22331/q-2018-12-03-110'
+
+- year: '2018'
+  title: 'Spatial noise filtering through error correction for quantum sensing'
+  leadauthor: 'Layden'
+  trailauthor: 'Cappellaro'
+  doi: '10.1038/s41534-018-0082-2'
+
+- year: '2019'
+  title: 'Quantum error correction in multi-parameter quantum metrology'
+  leadauthor: 'Gorecki'
+  trailauthor: 'Demkowicz-Dobrzanski'
+  doi: ''
+  arxiv: '1901.00896'
+
+- year: '2019'
+  title: 'Ancilla-Free Quantum Error Correction Codes for Quantum Metrology'
+  leadauthor: 'Layden'
+  trailauthor: 'Jiang'
+  doi: '10.1103/PhysRevLett.122.040502'
+
+
+
+
+
