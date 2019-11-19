@@ -1,0 +1,134 @@
+
+
+
+
+
+- year: '2012'
+  title: 'Surface codes: Towards practical large-scale quantum computation '
+  leadauthor: 'Fowler'
+  trailauthor: 'Cleland'
+  doi: '10.1103/physreva.86.032324'
+
+- year: '2012'
+  title: 'Qutrit magic state distillation'
+  leadauthor: 'Anwar'
+  trailauthor: 'Browne'
+  doi: '10.1088/1367-2630/14/6/063006'
+
+- year: '2012'
+  title: 'Magic-state distillation with low overhead'
+  leadauthor: 'Bravyi'
+  trailauthor: 'Haah'
+  doi: '10.1103/physreva.86.052329'
+
+- year: '2016'
+  title: 'Small codes for magic state distillation'
+  leadauthor: 'Howard'
+  trailauthor: 'Dawkins'
+  doi: '10.1140/epjd/e2016-60682-y'
+
+- year: '2017'
+  title: 'Unifying Gate Synthesis and Magic State Distillation'
+  leadauthor: 'Campbell'
+  trailauthor: 'Howard'
+  doi: '10.1103/physrevlett.118.060501'
+
+- year: '2019'
+  title: 'Towards Low Overhead Magic State Distillation'
+  leadauthor: 'Krishna'
+  trailauthor: 'Tillich'
+  doi: '10.1103/physrevlett.123.070507'
+
+- year: '2017'
+  title: 'Magic state distillation with low space overhead and optimal asymptotic input count'
+  leadauthor: 'Haah'
+  trailauthor: 'Wecker'
+  doi: '10.22331/q-2017-10-03-31'
+
+- year: '2015'
+  title: 'Qutrit Magic State Distillation Tight in Some Directions'
+  leadauthor: 'Dawkins'
+  trailauthor: 'Howard'
+  doi: '10.1103/physrevlett.115.030501'
+
+- year: '2005'
+  title: 'Universal quantum computation with ideal Clifford gates and noisy ancillas'
+  leadauthor: 'Bravyi'
+  trailauthor: 'Kitaev'
+  doi: '10.1103/physreva.71.022316'
+
+- year: '2013'
+  title: 'Surface code implementation of block code state distillation'
+  leadauthor: 'Fowler'
+  trailauthor: 'Jones'
+  doi: '10.1038/srep01939'
+
+- year: '2019'
+  title: 'Resource optimized quantum architectures for surface code implementations of magic-state distillation'
+  leadauthor: 'Holmes'
+  trailauthor: 'Chong'
+  doi: '10.1016/j.micpro.2019.02.007'
+
+- year: '2012'
+  title: 'Magic-state distillation with the four-qubit code'
+  leadauthor: 'Meier'
+  trailauthor: 'Knill'
+  doi: ''
+  arxiv: '1204.4221'
+
+- year: '2013'
+  title: 'Multilevel distillation of magic states for quantum computing'
+  leadauthor: 'Jones'
+  trailauthor: ''
+  doi: '10.1103/physreva.87.042305'
+
+- year: '2005'
+  title: 'Quantum Universality from Magic States Distillation Applied to CSS Codes'
+  leadauthor: 'Reichardt'
+  trailauthor: ''
+  doi: '10.1007/s11128-005-7654-8'
+
+- year: '2013'
+  title: 'Low-overhead constructions for the fault-tolerant Toffoli gate'
+  leadauthor: 'Jones'
+  trailauthor: ''
+  doi: '10.1103/physreva.87.022328'
+
+- year: '2013'
+  title: 'Distillation protocols for fourier states in quantum computing'
+  leadauthor: 'Jones'
+  trailauthor: ''
+  doi: ''
+  arxiv: '1303.3066'
+
+- year: '2013'
+  title: 'Distilling one-qubit magic states into Toffoli states'
+  leadauthor: 'Eastin'
+  trailauthor: ''
+  doi: '10.1103/physreva.87.032321'
+
+- year: '2013'
+  title: 'Universal Fault-Tolerant Quantum Computation with Only Transversal Gates and Error Correction'
+  leadauthor: 'Paetznick'
+  trailauthor: 'Reichardt'
+  doi: '10.1103/physrevlett.111.090505'
+
+- year: '1999'
+  title: 'Quantum teleportation is a universal computational primitive'
+  leadauthor: 'Gottesman'
+  trailauthor: 'Chuang'
+  doi: ''
+  arxiv: 'quant-ph/9908010'
+
+- year: '1999'
+  title: 'Demonstrating the viability of universal quantum computation using teleportation and single-qubit operations'
+  leadauthor: 'Gottesman'
+  trailauthor: 'Chuang'
+  doi: '10.1038/46503'
+
+
+
+
+
+
+
