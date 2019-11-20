@@ -5,6 +5,12 @@
   trailauthor: 'Preskill'
   doi: '10.1103/PhysRevA.64.012310'
 
+- year: '2001'
+  title: 'Achievable rates for the Gaussian quantum channel'
+  leadauthor: 'Harrington'
+  trailauthor: 'Preskill'
+  doi: '10.1103/PhysRevA.64.062301'
+
 - year: '2002'
   title: 'Quantum encodings in spin systems and harmonic oscillators'
   leadauthor: 'Bartlett'
