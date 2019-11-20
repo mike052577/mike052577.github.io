@@ -202,6 +202,12 @@
   trailauthor: 'Jiang'
   doi: '10.1103/PhysRevA.97.032346'
 
+- year: '2018'
+  title: 'Quantum Capacity Bounds of Gaussian Thermal Loss Channels and Achievable Rates With Gottesman-Kitaev-Preskill Codes'
+  leadauthor: 'Noh'
+  trailauthor: 'Jiang'
+  doi: '10.1109/TIT.2018.2873764'
+
 - year: '2019'
   title: 'All-Gaussian Universality and Fault Tolerance with the Gottesman-Kitaev-Preskill Code'
   leadauthor: 'Baragiola'
