@@ -1,98 +1,15 @@
 
-- year: '2018'
-  title: 'Hardware-efficient bosonic quantum error-correcting codes based on symmetry operators'
-  leadauthor: 'Niu'
-  trailauthor: 'Shapiro'
-  doi: '10.1103/PhysRevA.97.032323'
-
-- year: '2014'
-  title: 'Fault-Tolerant Measurement-Based Quantum Computing with Continuous-Variable Cluster States'
-  leadauthor: 'Menicucci'
-  trailauthor: ''
-  doi: '10.1103/PhysRevLett.112.120504'
-
-- year: '2019'
-  title: 'All-Gaussian Universality and Fault Tolerance with the Gottesman-Kitaev-Preskill Code'
-  leadauthor: 'Baragiola'
-  trailauthor: 'Menicucci'
-  doi: '10.1103/PhysRevLett.123.200502'
-
-- year: '2019'
-  title: 'Quantum Capacity Bounds of Gaussian Thermal Loss Channels and Achievable Rates With Gottesman-Kitaev-Preskill Codes'
-  leadauthor: 'Noh'
-  trailauthor: 'Jiang'
-  doi: '10.1109/TIT.2018.2873764'
-
-- year: '2019'
-  title: 'Quantum error correction with the toric Gottesman-Kitaev-Preskill code'
-  leadauthor: 'Vuillot'
-  trailauthor: 'Terhal'
-  doi: '10.1103/PhysRevA.99.032344'
-
-- year: '2019'
-  title: 'Quantum Error Correction with the GKP Code and Concatenation with Stabilizer Codes'
-  leadauthor: 'Wang'
-  trailauthor: ''
-  doi: ''
-  arxiv: '1908.00147'
-
-- year: '2018'
-  title: 'Performance and structure of single-mode bosonic codes'
-  leadauthor: 'Albert'
-  trailauthor: 'Jiang'
-  doi: '10.1103/PhysRevA.97.032346'
-
-- year: '2019'
-  title: 'Fault-tolerant bosonic quantum error correction with the surface-GKP code'
-  leadauthor: 'Noh'
-  trailauthor: 'Chamberland'
-  doi: ''
-  arxiv: '1908.03579'
-
-- year: '2019'
-  title: 'Fault-tolerant preparation of approximate GKP states'
-  leadauthor: 'Shi'
-  trailauthor: 'Cross'
-  doi: '10.1088/1367-2630/ab3a62'
-
-- year: '2017'
-  title: 'Analog Quantum Error Correction with Encoding a Qubit into an Oscillator'
-  leadauthor: 'Fukui'
-  trailauthor: 'Okamoto'
-  doi: '10.1103/PhysRevLett.119.180507'
-
-- year: '2018'
-  title: 'High-Threshold Fault-Tolerant Quantum Computation with Analog Quantum Error Correction'
-  leadauthor: 'Fukui'
-  trailauthor: 'Fujii'
-  doi: '10.1103/PhysRevX.8.021054'
-
-- year: '2019'
-  title: 'Modular Bosonic Subsystem Codes'
-  leadauthor: 'Pantaleoni'
-  trailauthor: 'Menicucci'
-  doi: ''
-  arxiv: '1907.08210'
-
-- year: '2019'
-  title: 'On the equivalence of approximate Gottesman-Kitaev-Preskill codes'
-  leadauthor: 'Matsuura'
-  trailauthor: 'Koashi'
-  doi: ''
-  arxiv: '1910.08301'
-
-- year: '2019'
-  title: 'High-threshold fault-tolerant quantum computation with the GKP qubit and realistically noisy devices'
-  leadauthor: 'Fukui'
-  trailauthor: ''
-  doi: ''
-  arxiv: '1906.09767'
-
 - year: '2001'
   title: 'Encoding a qubit in an oscillator'
   leadauthor: 'Gottesman'
   trailauthor: 'Preskill'
   doi: '10.1103/PhysRevA.64.012310'
+
+- year: '2002'
+  title: 'Quantum encodings in spin systems and harmonic oscillators'
+  leadauthor: 'Bartlett'
+  trailauthor: 'Sanders'
+  doi: '10.1103/PhysRevA.65.052316'
 
 - year: '2002'
   title: 'Preparing encoded states in an oscillator'
@@ -184,5 +101,171 @@
   trailauthor: 'Furusawa'
   doi: '10.1103/PhysRevA.76.060301'
 
-# List complete until the end of 2007
+- year: '2009'
+  title: 'Gaussian-optimized preparation of non-Gaussian pure states'
+  leadauthor: 'Menzies'
+  trailauthor: 'Filip'
+  doi: '10.1103/PhysRevA.79.012313'
+
+- year: '2009'
+  title: 'Photonic quantum technologies'
+  leadauthor: 'O''Brien'
+  trailauthor: 'Vuckovic'
+  doi: '10.1038/nphoton.2009.229'
+
+- year: '2010'
+  title: 'Continuous-variable quantum information processing'
+  leadauthor: 'Andersen'
+  trailauthor: 'Silberhorn'
+  doi: '10.1002/lpor.200910010'
+
+- year: '2010'
+  title: 'Encoding many qubits in a rotor'
+  leadauthor: 'Raynal'
+  trailauthor: 'Englert'
+  doi: '10.1103/PhysRevA.81.052327'
+
+- year: '2010'
+  title: 'Optical Continuous-Variable Qubit'
+  leadauthor: 'Neergaard-Nielsen'
+  trailauthor: 'Sasaki'
+  doi: '10.1103/PhysRevLett.105.053602'
+
+- year: '2010'
+  title: 'Non-Gaussian operation based on photon subtraction using a photon-number-resolving detector at a telecommunications wavelength'
+  leadauthor: 'Namekata'
+  trailauthor: 'Inoue'
+  doi: '10.1038/NPHOTON.2010.158'
+
+- year: '2010'
+  title: 'Time-delayed quantum feedback for traveling optical fields'
+  leadauthor: 'Yanagisawa'
+  trailauthor: '--------'
+  doi: '10.1103/PhysRevA.82.033820'
+
+- year: '2010'
+  title: 'All-optical generation of states for "Encoding a qubit in an oscillator"'
+  leadauthor: 'Vasconcelos'
+  trailauthor: 'Glancy'
+  doi: '10.1364/OL.35.003261'
+
+# List complete until the end of 2010
+
+
+
+
+
+
+
+
+
+
+- year: '2014'
+  title: 'Fault-Tolerant Measurement-Based Quantum Computing with Continuous-Variable Cluster States'
+  leadauthor: 'Menicucci'
+  trailauthor: ''
+  doi: '10.1103/PhysRevLett.112.120504'
+
+- year: '2016'
+  title: 'Encoding a qubit into a cavity mode in circuit QED using phase estimation'
+  leadauthor: 'Terhal'
+  trailauthor: 'Weigand'
+  doi: '10.1103/PhysRevA.93.012315'
+
+- year: '2017'
+  title: 'Single-mode displacement sensor'
+  leadauthor: 'Duivenvoorden'
+  trailauthor: 'Weigand'
+  doi: '10.1103/PhysRevA.95.012305'
+
+- year: '2017'
+  title: 'Analog Quantum Error Correction with Encoding a Qubit into an Oscillator'
+  leadauthor: 'Fukui'
+  trailauthor: 'Okamoto'
+  doi: '10.1103/PhysRevLett.119.180507'
+
+- year: '2018'
+  title: 'High-Threshold Fault-Tolerant Quantum Computation with Analog Quantum Error Correction'
+  leadauthor: 'Fukui'
+  trailauthor: 'Fujii'
+  doi: '10.1103/PhysRevX.8.021054'
+
+- year: '2018'
+  title: 'Hardware-efficient bosonic quantum error-correcting codes based on symmetry operators'
+  leadauthor: 'Niu'
+  trailauthor: 'Shapiro'
+  doi: '10.1103/PhysRevA.97.032323'
+
+- year: '2018'
+  title: 'Performance and structure of single-mode bosonic codes'
+  leadauthor: 'Albert'
+  trailauthor: 'Jiang'
+  doi: '10.1103/PhysRevA.97.032346'
+
+- year: '2019'
+  title: 'All-Gaussian Universality and Fault Tolerance with the Gottesman-Kitaev-Preskill Code'
+  leadauthor: 'Baragiola'
+  trailauthor: 'Menicucci'
+  doi: '10.1103/PhysRevLett.123.200502'
+
+- year: '2019'
+  title: 'Quantum Capacity Bounds of Gaussian Thermal Loss Channels and Achievable Rates With Gottesman-Kitaev-Preskill Codes'
+  leadauthor: 'Noh'
+  trailauthor: 'Jiang'
+  doi: '10.1109/TIT.2018.2873764'
+
+- year: '2019'
+  title: 'Quantum error correction with the toric Gottesman-Kitaev-Preskill code'
+  leadauthor: 'Vuillot'
+  trailauthor: 'Terhal'
+  doi: '10.1103/PhysRevA.99.032344'
+
+- year: '2019'
+  title: 'Quantum Error Correction with the GKP Code and Concatenation with Stabilizer Codes'
+  leadauthor: 'Wang'
+  trailauthor: ''
+  doi: ''
+  arxiv: '1908.00147'
+
+- year: '2019'
+  title: 'Fault-tolerant bosonic quantum error correction with the surface-GKP code'
+  leadauthor: 'Noh'
+  trailauthor: 'Chamberland'
+  doi: ''
+  arxiv: '1908.03579'
+
+- year: '2019'
+  title: 'Fault-tolerant preparation of approximate GKP states'
+  leadauthor: 'Shi'
+  trailauthor: 'Cross'
+  doi: '10.1088/1367-2630/ab3a62'
+
+- year: '2019'
+  title: 'Modular Bosonic Subsystem Codes'
+  leadauthor: 'Pantaleoni'
+  trailauthor: 'Menicucci'
+  doi: ''
+  arxiv: '1907.08210'
+
+- year: '2019'
+  title: 'On the equivalence of approximate Gottesman-Kitaev-Preskill codes'
+  leadauthor: 'Matsuura'
+  trailauthor: 'Koashi'
+  doi: ''
+  arxiv: '1910.08301'
+
+- year: '2019'
+  title: 'High-threshold fault-tolerant quantum computation with the GKP qubit and realistically noisy devices'
+  leadauthor: 'Fukui'
+  trailauthor: ''
+  doi: ''
+  arxiv: '1906.09767'
+
+
+
+
+
+
+
+
 
