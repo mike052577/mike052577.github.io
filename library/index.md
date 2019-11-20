@@ -19,8 +19,8 @@ This is the default library page, and will contain links to topic collections.
 - [Code Switching and Gauge Fixing](/library/qec-code-switching-and-gauge-fixing)
 - [High-Dimension (d>2) Color Codes](/library/qec-high-dimension-color-codes)
 - [Magic State Distillation](/library/qec-magic-state-distillation)
-- [Quantum Reed-Muller Codes](/library/qec-quantum-reed-muller)
-- [GKP Codes](/library/qec-gkp-codes)
+- [Gottesman-Kitaev-Preskill (GKP) Codes](/library/qec-gkp-codes)
+- [Quantum Reed-Muller (QRM) Codes](/library/qec-quantum-reed-muller)
 
 ### Diamond Defects
 
