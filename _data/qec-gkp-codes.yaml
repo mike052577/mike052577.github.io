@@ -155,7 +155,58 @@
   trailauthor: 'Glancy'
   doi: '10.1364/OL.35.003261'
 
-# List complete until the end of 2010
+- year: '2011'
+  title: 'Encoding qubits in a rotor'
+  leadauthor: 'Kalev'
+  trailauthor: 'Englert'
+  doi: '10.1063/1.3630149'
+
+- year: '2011'
+  title: 'Optical hybrid approaches to quantum information'
+  leadauthor: 'van Loock'
+  trailauthor: ''
+  doi: '10.1002/lpor.201000005'
+
+- year: '2011'
+  title: 'Quantum error correction of continuous-variable states against Gaussian noise'
+  leadauthor: 'Ralph'
+  trailauthor: ''
+  doi: '10.1103/PhysRevA.84.022339'
+
+- year: '2012'
+  title: 'Encoding many qubits in a rotor'
+  leadauthor: 'Raynal'
+  trailauthor: 'Englert'
+  doi: '10.1063/1.4746063'
+
+- year: '2012'
+  title: 'Classifying, quantifying, and witnessing qudit-qumode hybrid entanglement'
+  leadauthor: 'Kreis'
+  trailauthor: 'van Loock'
+  doi: '10.1103/PhysRevA.85.032307'
+
+- year: '2012'
+  title: 'Quantum channels and their entropic characteristics'
+  leadauthor: 'Holevo'
+  trailauthor: 'Giovannetti'
+  doi: '10.1088/0034-4885/75/4/046001'
+
+- year: '2012'
+  title: 'Gaussian quantum information'
+  leadauthor: 'Weedbrook'
+  trailauthor: 'Lloyd'
+  doi: '10.1103/RevModPhys.84.621'
+
+# List complete until the end of 2012
+
+
+
+
+
+
+
+
+
 
 
 
