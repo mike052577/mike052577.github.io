@@ -74,11 +74,14 @@ __Nemoto, K., Trupke, M., Scharfenberger, B., Schmiedmayer, J., Hanks, M., Munro
 
 ### Oral
 
+`2019`
+__"Optical Outlook of the Germanium Vacancy Center in Diamond", International Symposium on Hybrid Quantum Systems 2019 (HQS2019), Matsue, Japan.__
+
 `2018`
 __“Optical Control of the Silicon-Vacancy Center in Diamond”, International Conference on Solid State Devices and Materials (SSDM), Tokyo, Japan.__
 
 `2018`
-__“High-Fidelity Spin Measurement on the Nitrogen―Vacancy Center”, International Conference on challenges in Quantum Information Science (CQ2018), Tokyo, Japan.__
+__“High-Fidelity Spin Measurement on the Nitrogen―Vacancy Center”, International Conference on challenges in Quantum Information Science (CQIS2018), Tokyo, Japan.__
 
 `2017`
 __“High Fidelity Measurement of the Electronic Spin of the Nitrogen-Vacancy Center Using State-Dependent Reflection”, Japan Society of Applied Physics (JSAP), Tokyo, Japan.__
