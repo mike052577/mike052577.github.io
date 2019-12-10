@@ -1,0 +1,92 @@
+
+- year: '2007'
+  title: 'A class of quantum LDPC codes: construction and performances under iterative decoding'
+  leadauthor: 'Camara'
+  trailauthor: 'Tillich'
+  doi: '10.1109/ISIT.2007.4557324'
+
+- year: '2008'
+  title: 'Design of near-optimum quantum error-correcting codes based on generator and parity-check matrices of LDGM codes'
+  leadauthor: 'Garcia-Frias'
+  trailauthor: 'Liu'
+  doi: '10.1109/CISS.2008.4558588'
+
+- year: '2008'
+  title: 'On the iterative decoding of sparse quantum codes'
+  leadauthor: 'Poulin'
+  trailauthor: 'Chung'
+  doi: ''
+  arxiv: '0801.1241'
+
+- year: '2008'
+  title: 'Quantum Graphical Models and Belief Propagation'
+  leadauthor: 'Leifer'
+  trailauthor: 'Poulin'
+  doi: '10.1016/j.aop.2007.10.001'
+
+- year: '2010'
+  title: 'Jointly-check iterative decoding algorithm for quantum sparse graph codes'
+  leadauthor: 'Jun-Hu'
+  trailauthor: 'Lin'
+  doi: '10.1088/1674-1056/19/8/080307'
+
+- year: '2012'
+  title: 'Enhanced Feedback Iterative Decoding of Sparse Quantum Codes'
+  leadauthor: 'Wang'
+  trailauthor: 'Wang'
+  doi: '10.1109/TIT.2011.2169534'
+
+- year: '2012'
+  title: 'Channel identification and its impact on quantum LDPC code performance'
+  leadauthor: 'Xie'
+  trailauthor: 'Yuan'
+  doi: '10.1109/AusCTW.2012.6164921'
+
+- year: '2013'
+  title: 'On the decoding of non-binary quantum low-density parity check codes'
+  leadauthor: 'Hwang'
+  trailauthor: 'Ham'
+  doi: '10.1109/ICTC.2013.6675562'
+
+- year: '2015'
+  title: 'Fifteen Years of Quantum LDPC Coding and Improved Decoding Strategies'
+  leadauthor: 'Babar'
+  trailauthor: 'Hanzo'
+  doi: '10.1109/ACCESS.2015.2503267'
+
+- year: '2015'
+  title: 'Sum-product decoding for sparse quantum codes over random balanced X-Z channel'
+  leadauthor: 'Chun-Lei'
+  trailauthor: 'Jing'
+  doi: '10.1109/ICSPCC.2015.7338965'
+
+- year: '2017'
+  title: 'Belief propagation decoding of quantum channels by passing quantum messages'
+  leadauthor: 'Renes'
+  trailauthor: ''
+  doi: '10.1088/1367-2630/aa7c78'
+
+- year: '2019'
+  title: 'Modified belief propagation decoders for quantum low-density parity-check codes'
+  leadauthor: 'Rigby'
+  trailauthor: 'Jarvis'
+  doi: '10.1103/PhysRevA.100.012330'
+
+- year: '2019'
+  title: 'Syndrome-Generalized Belief Propagation Decoding for Quantum Memories'
+  leadauthor: 'Raveendran'
+  trailauthor: 'Vasic'
+  doi: '10.1109/ICC.2019.8761366'
+
+- year: '2019'
+  title: 'Neural Belief-Propagation Decoders for Quantum Error-Correcting Codes'
+  leadauthor: 'Liu'
+  trailauthor: 'Poulin'
+  doi: '10.1103/PhysRevLett.122.200501'
+
+
+
+
+
+
+

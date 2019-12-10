@@ -22,6 +22,10 @@ This is the default library page, and will contain links to topic collections.
 - [Gottesman-Kitaev-Preskill (GKP) Codes](/library/qec-gkp-codes)
 - [Quantum Reed-Muller (QRM) Codes](/library/qec-quantum-reed-muller)
 
+#### Decoders
+
+- [Belief-Propagation](/library/qec-decoder-belief-propagation)
+
 ### Diamond Defects
 
 - [Negative Nitrogen–Vacancy Center](/library/diamond-nv-negative)
