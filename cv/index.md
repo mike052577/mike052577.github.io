@@ -62,6 +62,9 @@ __Hanks, M., Trupke, M., Schmiedmayer, J., Munro, W. J., and Nemoto, K. “High-
 `2017`
 __Hanks, M., Piparo, N.L., Trupke, M., Schmiedmayer, J., Munro, W.J., and Nemoto, K. “A universal quantum module for quantum communication, computation, and metrology.” In Quantum Photonic Devices (Vol. 10358, p. 103580K). International Society for Optics and Photonics.__
 
+`2017`
+__Nemoto, K., Hanks, M., Trupke, M., Schmiedmayer, J., and Munro, W. J. "Scalability of diamond-based quantum information devices." In Extended Abstracts of the 2017 International Conference on Solid State Devices and Materials.__
+
 `2016`
 __Nemoto, N., Trupke, M., Scharfenberger, B., Schmiedmayer, J., Hanks, M., Munro, W.J. "A quantum repeater network formed with hybrid NV diamond modules." In Proc. SPIE 9980, Quantum Communications and Quantum Imaging XIV, 998004.__
 
