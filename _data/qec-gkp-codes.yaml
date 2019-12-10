@@ -90,6 +90,12 @@
   doi: '10.1103/PhysRevA.75.064302'
 
 - year: '2007'
+  title: 'Transforming squeezed light into a large-amplitude coherent-state superposition'
+  leadauthor: 'Nielsen'
+  trailauthor: 'Molmer'
+  doi: '10.1103/PhysRevA.76.043840'
+
+- year: '2007'
   title: 'On the generation of a generalized superposition of displaced squeezed states'
   leadauthor: 'Weber'
   trailauthor: 'Baseia'
@@ -197,37 +203,93 @@
   trailauthor: 'Lloyd'
   doi: '10.1103/RevModPhys.84.621'
 
-# List complete until the end of 2012
+- year: '2013'
+  title: 'Deterministic protocol for mapping a qubit to coherent state superpositions in a cavity'
+  leadauthor: 'Leghtas'
+  trailauthor: 'Mirrahimi'
+  doi: '10.1103/PhysRevA.87.042315'
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- year: '2013'
+  title: 'Deterministically Encoding Quantum Information Using 100-Photon Schroedinger Cat States'
+  leadauthor: 'Vlastakis'
+  trailauthor: 'Schoelkopf'
+  doi: '10.1126/science.1243289'
 
 - year: '2014'
-  title: 'Fault-Tolerant Measurement-Based Quantum Computing with Continuous-Variable Cluster States'
-  leadauthor: 'Menicucci'
+  title: 'Experimental realization of a dynamic squeezing gate'
+  leadauthor: 'Miyata'
+  trailauthor: 'Furusawa'
+  doi: '10.1103/PhysRevA.90.060302'
+
+- year: '2015'
+  title: 'Quantum harmonic oscillator state synthesis by reservoir engineering'
+  leadauthor: 'Kienzler'
+  trailauthor: 'Home'
+  doi: '10.1126/science.1261033'
+
+- year: '2015'
+  title: 'Quantum error correction for quantum memories'
+  leadauthor: 'Terhal'
   trailauthor: ''
-  doi: '10.1103/PhysRevLett.112.120504'
+  doi: '10.1103/RevModPhys.87.307'
+
+- year: '2015'
+  title: 'Experimental Generation of Squeezed Cat States with an Operation Allowing Iterative Growth'
+  leadauthor: 'Etesse'
+  trailauthor: 'Tualle-Brouri'
+  doi: '10.1103/PhysRevLett.114.193602'
+
+- year: '2015'
+  title: 'Spin-motion entanglement and state diagnosis with squeezed oscillator wavepackets'
+  leadauthor: 'Lo'
+  trailauthor: 'Home'
+  doi: '10.1038/nature14458'
 
 - year: '2016'
   title: 'Encoding a qubit into a cavity mode in circuit QED using phase estimation'
   leadauthor: 'Terhal'
   trailauthor: 'Weigand'
   doi: '10.1103/PhysRevA.93.012315'
+
+- year: '2016'
+  title: 'Analysis of All-Optical State Generator for "Encoding a Qubit in an Oscillator"'
+  leadauthor: 'Policarpo'
+  trailauthor: 'Vasconcelos'
+  doi: '10.1007/s13538-016-0411-x'
+
+- year: '2016'
+  title: 'Real-Time Quadrature Measurement of a Single-Photon Wave Packet with Continuous Temporal-Mode Matching'
+  leadauthor: 'Ogawa'
+  trailauthor: 'Furusawa'
+  doi: '10.1103/PhysRevLett.116.233602'
+
+- year: '2016'
+  title: 'Quantum error correction against photon loss using multicomponent cat states'
+  leadauthor: 'Bergmann'
+  trailauthor: 'van Loock'
+  doi: '10.1103/PhysRevA.94.042332'
+
+- year: '2016'
+  title: 'Detector Imperfections of Schrodinger Cat Generation with Ancillary Coherent States'
+  leadauthor: 'Takahashi'
+  trailauthor: 'Komatsu'
+  doi: '10.7566/JPSJ.85.124401'
+
+
+# List complete until the end of 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - year: '2017'
   title: 'Single-mode displacement sensor'
