@@ -359,22 +359,47 @@
   trailauthor: 'Ferraro'
   doi: '10.1103/PhysRevA.98.063801'
 
-- year: '2018'
+- year: '2019'
   title: 'Quantum Capacity Bounds of Gaussian Thermal Loss Channels and Achievable Rates With Gottesman-Kitaev-Preskill Codes'
   leadauthor: 'Noh'
   trailauthor: 'Jiang'
   doi: '10.1109/TIT.2018.2873764'
 
-# List complete until the end of 2018
+- year: '2019'
+  title: 'Quantum tetrachotomous states: Superposition of four coherent states on a line in phase space'
+  leadauthor: 'Shukla'
+  trailauthor: 'Sanders'
+  doi: '10.1103/PhysRevA.99.063813'
 
+- year: '2019'
+  title: 'Linear and quadratic reservoir engineering of non-Gaussian states'
+  leadauthor: 'Brunelli'
+  trailauthor: 'Houhou'
+  doi: '10.1103/PhysRevA.100.013831'
 
+- year: '2019'
+  title: 'Fault-tolerant preparation of approximate GKP states'
+  leadauthor: 'Shi'
+  trailauthor: 'Cross'
+  doi: '10.1088/1367-2630/ab3a62'
 
+- year: '2019'
+  title: 'Stabilized Cat in a Driven Nonlinear Cavity: A Fault-Tolerant Error Syndrome Detector'
+  leadauthor: 'Puri'
+  trailauthor: 'Girvin'
+  doi: '10.1103/PhysRevX.9.041009'
 
+- year: '2019'
+  title: 'Conversion of Gaussian states to non-Gaussian states using photon-number-resolving detectors'
+  leadauthor: 'Su'
+  trailauthor: 'Sabapathy'
+  doi: '10.1103/PhysRevA.100.052301'
 
-
-
-
-
+- year: '2019'
+  title: 'Non-Gaussian and Gottesman–Kitaev–Preskill state preparation by photon catalysis'
+  leadauthor: 'Eaton'
+  trailauthor: 'Pfister'
+  doi: '10.1088/1367-2630/ab5330'
 
 - year: '2019'
   title: 'All-Gaussian Universality and Fault Tolerance with the Gottesman-Kitaev-Preskill Code'
@@ -383,10 +408,28 @@
   doi: '10.1103/PhysRevLett.123.200502'
 
 - year: '2019'
+  title: 'New ways to encode and use quantum bits'
+  leadauthor: 'Ferraro'
+  trailauthor: ''
+  doi: '10.1038/d41586-019-00647-3'
+
+- year: '2019'
+  title: 'Encoding a qubit in a trapped-ion mechanical oscillator'
+  leadauthor: 'Fluhmann'
+  trailauthor: 'Home'
+  doi: '10.1038/s41586-019-0960-6'
+
+- year: '2019'
   title: 'Quantum error correction with the toric Gottesman-Kitaev-Preskill code'
   leadauthor: 'Vuillot'
   trailauthor: 'Terhal'
   doi: '10.1103/PhysRevA.99.032344'
+
+- year: '2019'
+  title: 'Machine learning method for state preparation and gate synthesis on photonic quantum computers'
+  leadauthor: 'Arrazola'
+  trailauthor: 'Killoran'
+  doi: '10.1088/2058-9565/aaf59e'
 
 - year: '2019'
   title: 'Quantum Error Correction with the GKP Code and Concatenation with Stabilizer Codes'
@@ -401,12 +444,6 @@
   trailauthor: 'Chamberland'
   doi: ''
   arxiv: '1908.03579'
-
-- year: '2019'
-  title: 'Fault-tolerant preparation of approximate GKP states'
-  leadauthor: 'Shi'
-  trailauthor: 'Cross'
-  doi: '10.1088/1367-2630/ab3a62'
 
 - year: '2019'
   title: 'Modular Bosonic Subsystem Codes'
