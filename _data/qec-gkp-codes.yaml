@@ -275,22 +275,6 @@
   trailauthor: 'Komatsu'
   doi: '10.7566/JPSJ.85.124401'
 
-
-# List complete until the end of 2016
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - year: '2017'
   title: 'Single-mode displacement sensor'
   leadauthor: 'Duivenvoorden'
@@ -298,10 +282,67 @@
   doi: '10.1103/PhysRevA.95.012305'
 
 - year: '2017'
+  title: 'Encoding qubits into oscillators with atomic ensembles and squeezed light'
+  leadauthor: 'Motes'
+  trailauthor: 'Menicucci'
+  doi: '10.1103/PhysRevA.95.053819'
+
+- year: '2017'
+  title: 'Implementing a universal gate set on a logical qubit encoded in an oscillator'
+  leadauthor: 'Heeres'
+  trailauthor: 'Schoelkopf'
+  doi: '10.1038/s41467-017-00045-1'
+
+- year: '2017'
+  title: 'Controlled release of multiphoton quantum states from a microwave cavity memory'
+  leadauthor: 'Pfagg'
+  trailauthor: 'Schoelkopf'
+  doi: '10.1038/NPHYS4143'
+
+- year: '2017'
   title: 'Analog Quantum Error Correction with Encoding a Qubit into an Oscillator'
   leadauthor: 'Fukui'
   trailauthor: 'Okamoto'
   doi: '10.1103/PhysRevLett.119.180507'
+
+- year: '2017'
+  title: 'Macroscopic nonclassical-state preparation via postselection'
+  leadauthor: 'Montenegro'
+  trailauthor: 'Orszag'
+  doi: '10.1103/PhysRevA.96.053851'
+
+- year: '2017'
+  title: 'Generation of highly pure Schrodinger''s cat states and real-time quadrature measurements via optical filtering'
+  leadauthor: 'Asavanant'
+  trailauthor: 'Furusawa'
+  doi: '10.1364/OE.25.032227'
+
+- year: '2017'
+  title: 'Purification of photon subtraction from continuous squeezed light by filtering'
+  leadauthor: 'Yoshikawa'
+  trailauthor: 'Furusawa'
+  doi: '10.1103/PhysRevA.96.052304'
+
+- year: '2017'
+  title: 'General phase spaces: from discrete variables to rotor and continuum limits'
+  leadauthor: 'Albert'
+  trailauthor: 'Devoret'
+  doi: '10.1088/1751-8121/aa9314'
+
+# List complete until the end of 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - year: '2018'
   title: 'High-Threshold Fault-Tolerant Quantum Computation with Analog Quantum Error Correction'
