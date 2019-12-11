@@ -329,32 +329,11 @@
   trailauthor: 'Devoret'
   doi: '10.1088/1751-8121/aa9314'
 
-# List complete until the end of 2017
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - year: '2018'
-  title: 'High-Threshold Fault-Tolerant Quantum Computation with Analog Quantum Error Correction'
-  leadauthor: 'Fukui'
-  trailauthor: 'Fujii'
-  doi: '10.1103/PhysRevX.8.021054'
-
-- year: '2018'
-  title: 'Hardware-efficient bosonic quantum error-correcting codes based on symmetry operators'
-  leadauthor: 'Niu'
-  trailauthor: 'Shapiro'
-  doi: '10.1103/PhysRevA.97.032323'
+  title: 'Generating grid states from Schrodinger-cat states without postselection'
+  leadauthor: 'Weigand'
+  trailauthor: 'Terhal'
+  doi: '10.1103/PhysRevA.97.022341'
 
 - year: '2018'
   title: 'Performance and structure of single-mode bosonic codes'
@@ -363,22 +342,45 @@
   doi: '10.1103/PhysRevA.97.032346'
 
 - year: '2018'
+  title: 'High-Threshold Fault-Tolerant Quantum Computation with Analog Quantum Error Correction'
+  leadauthor: 'Fukui'
+  trailauthor: 'Fujii'
+  doi: '10.1103/PhysRevX.8.021054'
+
+- year: '2018'
+  title: 'Tracking quantum error correction'
+  leadauthor: 'Fukui'
+  trailauthor: 'Okamoto'
+  doi: '10.1103/PhysRevA.98.022326'
+
+- year: '2018'
+  title: 'Unconditional preparation of nonclassical states via linear-and-quadratic optomechanics'
+  leadauthor: 'Brunelli'
+  trailauthor: 'Ferraro'
+  doi: '10.1103/PhysRevA.98.063801'
+
+- year: '2018'
   title: 'Quantum Capacity Bounds of Gaussian Thermal Loss Channels and Achievable Rates With Gottesman-Kitaev-Preskill Codes'
   leadauthor: 'Noh'
   trailauthor: 'Jiang'
   doi: '10.1109/TIT.2018.2873764'
+
+# List complete until the end of 2018
+
+
+
+
+
+
+
+
+
 
 - year: '2019'
   title: 'All-Gaussian Universality and Fault Tolerance with the Gottesman-Kitaev-Preskill Code'
   leadauthor: 'Baragiola'
   trailauthor: 'Menicucci'
   doi: '10.1103/PhysRevLett.123.200502'
-
-- year: '2019'
-  title: 'Quantum Capacity Bounds of Gaussian Thermal Loss Channels and Achievable Rates With Gottesman-Kitaev-Preskill Codes'
-  leadauthor: 'Noh'
-  trailauthor: 'Jiang'
-  doi: '10.1109/TIT.2018.2873764'
 
 - year: '2019'
   title: 'Quantum error correction with the toric Gottesman-Kitaev-Preskill code'
@@ -426,11 +428,6 @@
   trailauthor: ''
   doi: ''
   arxiv: '1906.09767'
-
-
-
-
-
 
 
 
