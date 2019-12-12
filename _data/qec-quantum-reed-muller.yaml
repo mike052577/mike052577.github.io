@@ -1,4 +1,15 @@
 
+
+
+
+
+- year: '1997'
+  title: 'Quantum Reed-Muller Codes'
+  leadauthor: 'Zhang'
+  trailauthor: 'Fuss'
+  doi: ''
+  arxiv: 'quant-ph/9703045'
+
 - year: '1999'
   title: 'Quantum Reed-Muller codes'
   leadauthor: 'Steane'
@@ -11,10 +22,41 @@
   trailauthor: 'Klappenecker'
   doi: '10.1109/isit.2005.1523494'
 
+- year: '2011'
+  title: 'A Construction of Quantum Stabilizer Codes Based on Syndrome Assignment by Classical Parity-Check Matrices'
+  leadauthor: 'Lai'
+  trailauthor: 'Lu'
+  doi: '10.1109/TIT.2011.2165812'
+
+- year: '2012'
+  title: 'Nonbinary quantum codes derived from finite geometries'
+  leadauthor: 'Clark'
+  trailauthor: 'Tonchev'
+  doi: '10.1016/j.ffa.2011.06.004'
+
+- year: '2012'
+  title: 'Magic-State Distillation in All Prime Dimensions Using Quantum Reed-Muller Codes'
+  leadauthor: 'Campbell'
+  trailauthor: 'Browne'
+  doi: '10.1103/PhysRevX.2.041021'
+
+- year: '2014'
+  title: 'Fault-Tolerant Conversion between the Steane and Reed-Muller Quantum Codes'
+  leadauthor: 'Anderson'
+  trailauthor: 'Poulin'
+  doi: '10.1103/PhysRevLett.113.080501'
+
 - year: '2016'
   title: 'Quaternary quantum reed-muller codes'
   leadauthor: 'Yuan'
   trailauthor: ''
   doi: '10.1109/icsai.2016.7811128'
+
+- year: '2018'
+  title: 'Fault-tolerant conversion between adjacent Reed-Muller quantum codes based on gauge fixing'
+  leadauthor: 'Quan'
+  trailauthor: 'Sanders'
+  doi: '10.1088/1751-8121/aaad13'
+
 
 
