@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: CV
-date: 2019-11-07
+date: 2019-12-14
 category: site
 format: davewhipp
 ---
@@ -115,7 +115,10 @@ __“Photonic quantum communication: requirements in diamond (NV-)”, Okinawa S
 
 ## Awards and Honours
 
-`2018`
+`2019/03`
+__Dean's Award, School of Multidisciplinary Sciences, Sokendai (The Graduate University for Advanced Studies), Japan.__
+
+`2018/09`
 __Best Student Award, National Institute of Informatics, Japan.__
 
 `2013/10 - 2019/03`
