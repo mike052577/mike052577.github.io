@@ -77,6 +77,9 @@ __Nemoto, K., Trupke, M., Scharfenberger, B., Schmiedmayer, J., Hanks, M., Munro
 `2019`
 __"Optical Outlook of the Germanium Vacancy Center in Diamond", International Symposium on Hybrid Quantum Systems 2019 (HQS2019), Matsue, Japan.__
 
+`2019`
+__"The Many Faces of Quantum Device Design", Invited Talk, 19th Asian Quantum Information Science Conference (AQIS2019) Satellite Meeting, Hosted by the Korea Institute for Advanced Study (KIAS), Seoul, Korea.__
+
 `2018`
 __“Optical Control of the Silicon-Vacancy Center in Diamond”, International Conference on Solid State Devices and Materials (SSDM), Tokyo, Japan.__
 
