@@ -16,13 +16,15 @@ Quantum Information Engineering and Scientific Computing
 </ul>
 </div>
 
-## What I'm doing now
 
-Job description.
+## Research Description
 
-### Some more detailed job header
+In his 2000 paper "The Physical Implementation of Quantum Computation", Di Vincenzo defined five canonical requirements for quantum computation and two additional ones for quantum communication. Subsets of these requirements have been met in various physical systems, but no single system currently fulfills all of them. This is, nonetheless, an exciting time for quantum technologies, and two significant landmarks in the near future appear to be quantum communication at distances beyond the limits of direct optical channels and the implementation of (perhaps partial) quantum error correction. I am interested in quantum communication and quantum metrology with partial error correction as stepping-stones toward large-scale quantum computation. To that end, I use theoretical estimates to look for scalable physical systems and the high-fidelity implementation of a common, though not necessarily universal, set of quantum operations. I am also interested in reducing the requirements on these systems for large scale computation via the field of quantum error correction, and in particular how error correction schemes can be tailored to specific systems and applications.
 
-### Some other info about what I'm working on
+## Bio
+
+Michael Hanks received his PhD in 2019 from the School of Multidisciplinary Sciences, Sokendai Graduate University, Japan, with the dissertation ‘Quantum Resource Engineering’. He continues his studies at the National Institute of Informatics, Japan, as a postdoctoral research fellow under the supervision of Professor Kae Nemoto. His research interests include the identification of scalable physical systems for quantum information processing through theoretical estimates of operation performance, and also lowering quantum error correction resource requirements. Recent works include ‘Efficient compression of quantum braided circuits’ (arXiv:1912.11503), ‘Decoding Quantum Error Correction Codes with Local Variation’ (arXiv:1912.09635), and ‘Resource reduction for distributed quantum information processing using quantum multiplexed photons’ (arXiv:1907.02240).
+
 
 
 ## Experience
