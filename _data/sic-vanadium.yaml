@@ -1,0 +1,104 @@
+
+
+- year: '1990'
+  title: 'Infrared spectra and electron spin resonance of vanadium deep level impurities in silicon carbide'
+  leadauthor: 'Schneider'
+  trailauthor: 'Stein'
+  doi: '10.1063/1.102555'
+
+- year: '1993'
+  title: 'Magnetic circular dichroism and site-selective optically detected magnetic resonance of the deep amphoteric vanadium impurity in 6H-SiC'
+  leadauthor: 'Kunzer'
+  trailauthor: 'Kaufmann'
+  doi: '10.1103/PhysRevB.48.10846'
+
+- year: '1995'
+  title: 'Magnetic circular dichroism and electron spin resonance of the A− acceptor state of vanadium, V3+, in 6H-SiC'
+  leadauthor: 'Kunzer'
+  trailauthor: 'Schneider'
+  doi: '10.1016/0921-5107(94)04010-2'
+  arxiv: ''
+
+- year: '1996'
+  title: 'Deep level transient spectroscopic and Hall effect investigation of the position of the vanadium acceptor level in 4H and 6H SiC'
+  leadauthor: 'Jenny'
+  trailauthor: 'Hopkins'
+  doi: '10.1063/1.115640'
+
+- year: '1996'
+  title: 'Formation of semi‐insulating 6H‐SiC layers by vanadium ion implantations'
+  leadauthor: 'Kimoto'
+  trailauthor: 'Inoue'
+  doi: '10.1063/1.117075'
+
+- year: '1997'
+  title: 'Crystal-field model of vanadium in 6H silicon carbide'
+  leadauthor: 'Kaufmann'
+  trailauthor: 'Ham'
+  doi: '10.1103/PhysRevB.55.13009'
+
+- year: '1997'
+  title: 'Transition Metals in SiC Polytypes, as Studied by Magnetic Resonance Techniques'
+  leadauthor: 'Baur'
+  trailauthor: 'Schneider'
+  doi: '10.1002/1521-396X(199707)162:1<153::AID-PSSA153>3.0.CO;2-3'
+
+- year: '1999'
+  title: 'Electrical and optical characterisation of vanadium in 4H and 6H–SiC'
+  leadauthor: 'Lauer'
+  trailauthor: 'Naud'
+  doi: '10.1016/S0921-5107(98)00512-1'
+
+- year: '2004'
+  title: 'Optical and electrical properties of vanadium and erbium in 4H-SiC'
+  leadauthor: 'Prezzi'
+  trailauthor: 'Oeberg'
+  doi: '10.1103/PhysRevB.69.193202'
+
+- year: '2007'
+  title: 'Vanadium donor and acceptor levels in semi-insulating 4H- and 6H-SiC'
+  leadauthor: 'Mitchel'
+  trailauthor: 'Zvanut'
+  doi: '10.1063/1.2407263'
+
+- year: '2008'
+  title: 'High-resolution photoinduced transient spectroscopy of defect centers in vanadium-doped semi-insulating SiC'
+  leadauthor: 'Kaminski'
+  trailauthor: 'Pawlowski'
+  doi: '10.1007/s10854-008-9576-6'
+
+- year: '2010'
+  title: 'Quantum computing with defects'
+  leadauthor: 'Weber'
+  trailauthor: 'Awschalom'
+  doi: '10.1073/pnas.1003052107'
+  arxiv: '1003.1754'
+
+- year: '2011'
+  title: 'Asymmetric Split-Vacancy Defects in SiC Polytypes: A Combined Theoretical and Electron Spin Resonance Study'
+  leadauthor: 'Ivady'
+  trailauthor: 'Gali'
+  doi: '10.1103/PhysRevLett.107.195501'
+
+- year: '2013'
+  title: 'Role of screening in the density functional applied to transition-metal defects in semiconductors'
+  leadauthor: 'Ivady'
+  trailauthor: 'Gali'
+  doi: '10.1103/PhysRevB.87.205201'
+  arxiv: '1301.4126'
+
+- year: '2019'
+  title: 'Optical Properties of Vanadium in 4H Silicon Carbide for Quantum Technology'
+  leadauthor: 'Spindlberger'
+  trailauthor: 'Trupke'
+  doi: '10.1103/PhysRevApplied.12.014015'
+  arxiv: '1901.05371'
+
+- year: '2019'
+  title: 'Transition metal qubits in 4H-silicon carbide: A correlated EPR and DFT study of the spin S=1 vanadium V3+ center'
+  leadauthor: 'Bardeleben'
+  trailauthor: 'Gerstmann'
+  doi: '10.1103/PhysRevMaterials.3.124605'
+
+
+

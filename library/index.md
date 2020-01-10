@@ -28,6 +28,9 @@ title: Library
 - [Negative Silicon–Vacancy Center](/library/diamond-siv-negative)
 - [Negative Germanium–Vacancy Center](/library/diamond-gev-negative)
 
+### Optical Centers in Silicon-Carbide
+
+- [Vanadium Centers](/library/sic-vanadium)
 
 
 
