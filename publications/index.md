@@ -14,6 +14,7 @@ Mapping a quantum algorithm to any practical large-scale quantum computer will r
 
 [arxiv](https://arxiv.org/abs/1912.11503)
 
+<hr>
 
 ### Decoding Quantum Error Correction Codes with Local Variation
 
@@ -24,6 +25,7 @@ In this paper we investigate the role of local information in the decoding of th
 
 [arxiv](https://arxiv.org/abs/1912.09635)
 
+<hr>
 
 ### Resource reduction for distributed quantum information processing using quantum multiplexed photons
 
@@ -34,6 +36,7 @@ Distributed quantum information processing is based on the transmission of quant
 
 [arxiv](https://arxiv.org/abs/1907.02240)
 
+<hr>
 
 ### Robust quantum sensing with strongly interacting probe systems
 
@@ -46,6 +49,7 @@ In the field of quantum metrology and sensing, a collection of quantum systems (
 [Bibtex](https://api.crossref.org/works/doi:10.1038/s41534-018-0073-3/transform/application/x-bibtex),
 [arxiv](https://arxiv.org/abs/1709.09387)
 
+<hr>
 
 ### High-fidelity spin measurement on the nitrogen-vacancy center
 
