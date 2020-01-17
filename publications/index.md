@@ -6,6 +6,7 @@ title: Publications
 # Publications
 
 ### Efficient compression of quantum braided circuits
+
 `2019`
 Michael Hanks, Marta P. Estarellas, William J. Munro, Kae Nemoto
 
@@ -15,6 +16,7 @@ Mapping a quantum algorithm to any practical large-scale quantum computer will r
 
 
 ### Decoding Quantum Error Correction Codes with Local Variation
+
 `2019`
 Michael Hanks, William J. Munro, Kae Nemoto
 
@@ -24,6 +26,7 @@ In this paper we investigate the role of local information in the decoding of th
 
 
 ### Resource reduction for distributed quantum information processing using quantum multiplexed photons
+
 `2019`
 Nicolo Lo Piparo, Michael Hanks, Claude Gravel, Kae Nemoto, William J. Munro
 
@@ -33,6 +36,7 @@ Distributed quantum information processing is based on the transmission of quant
 
 
 ### Robust quantum sensing with strongly interacting probe systems
+
 `2018`
 Shane Dooley, Michael Hanks, Shojun Nakayama, William J. Munro, Kae Nemoto
 
@@ -44,6 +48,7 @@ In the field of quantum metrology and sensing, a collection of quantum systems (
 
 
 ### High-fidelity spin measurement on the nitrogen-vacancy center
+
 `2017`
 Michael Hanks, Michael Trupke, Joerg Schmiedmayer, William J. Munro, Kae Nemoto
 
