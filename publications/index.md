@@ -3,7 +3,10 @@ layout: default
 title: Publications
 ---
 
+# Publications
+
 ### Efficient compression of quantum braided circuits
+
 Michael Hanks, Marta P. Estarellas, William J. Munro, Kae Nemoto
 
 Mapping a quantum algorithm to any practical large-scale quantum computer will require a sequence of compilations and optimizations. At the level of fault-tolerant encoding, one likely requirement of this process is the translation into a topological circuit, for which braided circuits represent one candidate model. Given the large overhead associated with encoded circuits, it is paramount to reduce their size in terms of computation time and qubit number through circuit compression. While these optimizations have typically been performed in the language of 3-dimensional diagrams, such a representation does not allow an efficient, general and scalable approach to reduction or verification. We propose the use of the ZX-calculus as an intermediate language for braided circuit compression, demonstrating advantage by comparing results using this approach with those previously obtained for the compression of $\vert A \rangle$ and $\vert Y \rangle$ state distillation circuits. We then provide a rough benchmark of our method against a small set of Clifford+T circuits, yielding compression percentages of ∼77\%. Our results suggest that the overheads of braided, defect-based circuits are comparable to those of their lattice-surgery counterparts, restoring the potential of this model for surface code quantum computation.
@@ -12,6 +15,7 @@ arxiv: [1912.11503](https://arxiv.org/abs/1912.11503)
 
 
 ### Decoding Quantum Error Correction Codes with Local Variation
+
 Michael Hanks, William J. Munro, Kae Nemoto
 
 In this paper we investigate the role of local information in the decoding of the repetition and surface error correction codes for the protection of quantum states. Our key result is an improvement in resource efficiency when local information is taken into account during the decoding process: the code distance associated with a given logical error rate is reduced with a magnitude depending on the proximity of the physical error rate to the accuracy threshold of the code. We also briefly discuss an averaged approach with local information for table-lookup and localised decoding schemes, an expected breakdown of these effects for large-scale systems, and the importance of this resource reduction in the near-term.
