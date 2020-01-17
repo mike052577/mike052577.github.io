@@ -45,9 +45,8 @@ Shane Dooley, Michael Hanks, Shojun Nakayama, William J. Munro, Kae Nemoto
 
 > In the field of quantum metrology and sensing, a collection of quantum systems (e.g., spins) are used as a probe to estimate some physical parameter (e.g., magnetic field). It is usually assumed that there are no interactions between the probe systems. We show that strong interactions between them can increase robustness against thermal noise, leading to enhanced sensitivity. In principle, the sensitivity can scale exponentially in the number of probes—even at non-zero temperatures—if there are long-range interactions. This scheme can also be combined with other techniques, such as dynamical decoupling, to give enhanced sensitivity in realistic experiments.
 
-[npj Quantum Information, 4, 24 (2018)](https://doi.org/10.1038/s41534-018-0073-3),
-[Bibtex](https://api.crossref.org/works/doi:10.1038/s41534-018-0073-3/transform/application/x-bibtex),
-[arxiv](https://arxiv.org/abs/1709.09387)
+<div style="float: right;">[Bibtex](https://api.crossref.org/works/doi:10.1038/s41534-018-0073-3/transform/application/x-bibtex)</div>
+[npj Quantum Information, 4, 24 (2018)](https://doi.org/10.1038/s41534-018-0073-3)
 
 <hr>
 
@@ -58,9 +57,8 @@ Michael Hanks, Michael Trupke, Joerg Schmiedmayer, William J. Munro, Kae Nemoto
 
 > Nitrogen-vacancy (NV) centers in diamond are versatile candidates for many quantum information processing tasks, ranging from quantum imaging and sensing through to quantum communication and fault-tolerant quantum computers. Critical to almost every potential application is an efficient mechanism for the high fidelity readout of the state of the electronic and nuclear spins. Typically such readout has been achieved through an optically resonant fluorescence measurement, but the presence of decay through a meta-stable state will limit its efficiency to the order of 99%. While this is good enough for many applications, it is insufficient for large scale quantum networks and fault-tolerant computational tasks. Here we explore an alternative approach based on dipole induced transparency (state-dependent reflection) in an NV center cavity QED system, using the most recent knowledge of the NV center's parameters to determine its feasibility, including the decay channels through the meta-stable subspace and photon ionization. We find that single-shot measurements above fault-tolerant thresholds should be available in the strong coupling regime for a wide range of cavity-center cooperativities, using a majority voting approach utilizing single photon detection. Furthermore, extremely high fidelity measurements are possible using weak optical pulses.
 
-[New Journal of Physics, 19, 103002 (2017)](https://doi.org/10.1088/1367-2630/aa8085),
-[Bibtex](https://api.crossref.org/works/doi:10.1088/1367-2630/aa8085/transform/application/x-bibtex),
-[arxiv](https://arxiv.org/abs/1705.00156)
+<div style="float: right;">[Bibtex](https://api.crossref.org/works/doi:10.1088/1367-2630/aa8085/transform/application/x-bibtex)</div>
+[New Journal of Physics, 19, 103002 (2017)](https://doi.org/10.1088/1367-2630/aa8085)
 
 
 
