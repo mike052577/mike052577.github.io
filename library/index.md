@@ -6,6 +6,10 @@ title: Library
 # Library
 
 
+### Fundamentals
+
+- [Hardy's Paradox](/library/hardys-paradox)
+
 ### Quantum Metrology
 
 - [Mitigating Noise](/library/qmetrology-mitigate-noise)
