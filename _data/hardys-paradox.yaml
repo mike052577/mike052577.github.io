@@ -50,6 +50,18 @@
   doi: '10.1016/0375-9601(92)90619-W'
 
 - year: '1992'
+  title: 'Noise-induced reduction of wave packets and faster-than-light influences'
+  leadauthor: 'Stapp'
+  trailauthor: ''
+  doi: '10.1103/PhysRevA.46.6860'
+
+- year: '1992'
+  title: 'On the violation of Lorentz-invariance in deterministic hidden-variable interpretations of quantum theory'
+  leadauthor: 'Hardy'
+  trailauthor: 'Squires'
+  doi: '10.1016/0375-9601(92)90569-8'
+
+- year: '1992'
   title: 'Hardy''s nonlocality theorem for n spin-1/2 particles'
   leadauthor: 'Pagonis'
   trailauthor: 'Clifton'
@@ -60,6 +72,12 @@
   leadauthor: 'Clifton'
   trailauthor: 'Niemann'
   doi: '10.1016/0375-9601(92)90358-S'
+
+- year: '1993'
+  title: 'Absolute space-time and realism in Lorentz invariant interpretations of quantum mechanics'
+  leadauthor: 'Combourieu'
+  trailauthor: 'Vigier'
+  doi: '10.1016/0375-9601(93)90619-B'
 
 - year: '1993'
   title: 'Using the Pauli exclusion principle to exhibit local-realism violations in overlapping interferometers'
@@ -132,4 +150,9 @@
   leadauthor: 'Eberhard'
   trailauthor: 'Rosselet'
   doi: '10.1007/BF02054658'
+
+
+
+
+
 
