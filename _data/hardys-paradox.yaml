@@ -151,6 +151,84 @@
   trailauthor: 'Rosselet'
   doi: '10.1007/BF02054658'
 
+- year: '1995'
+  title: 'A method for demonstrating violation of local realism with a two-photon downconverter without use of Bell inequalities'
+  leadauthor: 'Torgerson'
+  trailauthor: 'Mandel'
+  doi: '10.1007/BF01135872'
+
+- year: '1995'
+  title: 'Lorentz Invariance and the retarded Bohm Model'
+  leadauthor: 'Mackman'
+  trailauthor: 'Squires'
+  doi: 'doi.org/10.1007/BF02055216'
+
+- year: '1995'
+  title: 'Simple example of nonlocality: Atoms interacting with correlated quantized fields'
+  leadauthor: 'Freyberger'
+  trailauthor: ''
+  doi: '10.1103/PhysRevA.51.3347'
+
+- year: '1995'
+  title: 'Reexamining the assumption that elements of reality can be Lorentz invariant'
+  leadauthor: 'Cohen'
+  trailauthor: 'Hiley'
+  doi: '10.1103/PhysRevA.52.76'
+
+- year: '1995'
+  title: 'Experimental demonstration of the violation of local realism without Bell inequalities'
+  leadauthor: 'Torgerson'
+  trailauthor: 'Mandel'
+  doi: '10.1016/0375-9601(95)00486-M'
+
+- year: '1995'
+  title: 'Nonlocality of a Single Photon Revisited Again [a comment]'
+  leadauthor: 'Vaidman'
+  trailauthor: ''
+  doi: '10.1103/PhysRevLett.75.2063'
+
+- year: '1995'
+  title: 'Nonlocality of a Single Photon? [a comment]'
+  leadauthor: 'Greenberger'
+  trailauthor: 'Zeilinger'
+  doi: '10.1103/PhysRevLett.75.2064'
+
+- year: '1995'
+  title: 'Hardy Replies [to Vaidman, and to Greenberger et al.]'
+  leadauthor: 'Hardy'
+  trailauthor: ''
+  doi: '10.1103/PhysRevLett.75.2065'
+
+- year: '1996'
+  title: 'Elements of reality, Lorentz invariance, and the product rule'
+  leadauthor: 'Cohen'
+  trailauthor: 'Hiley'
+  doi: '10.1007/BF02058886'
+
+- year: '1996'
+  title: 'Hardy''s nonlocality theorem for three spin-half particles'
+  leadauthor: 'Wu'
+  trailauthor: 'Xie'
+  doi: '10.1016/0375-9601(95)00957-4'
+
+- year: '1996'
+  title: 'The detection loophole in Hardy''s nonlocality theorem and minimum detection efficiency'
+  leadauthor: 'Hwang'
+  trailauthor: 'Han'
+  doi: '10.1016/0375-9601(96)00072-2'
+
+- year: '1996'
+  title: 'Comment on "Experimental demonstration of the violation of local realism without Bell inequalities" by Torgerson et al.'
+  leadauthor: 'Cabello'
+  trailauthor: 'Santos'
+  doi: '10.1016/0375-9601(96)00123-5'
+
+- year: '1996'
+  title: 'Reply to the comment by Cabello and Santos on "Experimental demonstration of the violation of local realism without Bell inequalities"'
+  leadauthor: 'Torgerson'
+  trailauthor: 'Mandel'
+  doi: '10.1016/0375-9601(96)00122-3'
+
 
 
 

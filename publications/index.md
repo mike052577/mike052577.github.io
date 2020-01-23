@@ -16,17 +16,6 @@ Michael Hanks, Marta P. Estarellas, William J. Munro, Kae Nemoto
 
 <hr>
 
-### Decoding Quantum Error Correction Codes with Local Variation
-
-<div style="float: right;">2019</div>
-Michael Hanks, William J. Munro, Kae Nemoto
-
-> In this paper we investigate the role of local information in the decoding of the repetition and surface error correction codes for the protection of quantum states. Our key result is an improvement in resource efficiency when local information is taken into account during the decoding process: the code distance associated with a given logical error rate is reduced with a magnitude depending on the proximity of the physical error rate to the accuracy threshold of the code. We also briefly discuss an averaged approach with local information for table-lookup and localised decoding schemes, an expected breakdown of these effects for large-scale systems, and the importance of this resource reduction in the near-term.
-
-[arxiv](https://arxiv.org/abs/1912.09635)
-
-<hr>
-
 ### Resource reduction for distributed quantum information processing using quantum multiplexed photons
 
 <div style="float: right;">2019</div>
@@ -35,6 +24,19 @@ Nicolo Lo Piparo, Michael Hanks, Claude Gravel, Kae Nemoto, William J. Munro
 > Distributed quantum information processing is based on the transmission of quantum data over lossy channels between quantum processing nodes. These nodes may be separated by a few microns or on planetary scale distances, but transmission losses due to absorption/scattering in the channel are the major source of error for most distributed quantum information tasks. Of course quantum error detection (QED) /correction (QEC) techniques can be used to mitigate such effects but error detection approaches have severe performance issues due to the signaling constraints between nodes and so error correction approaches are preferable - assuming one has sufficient high quality local operations. Typical loss based QEC utilizes a one qubit per photon encoding. However single photons can carry more than one qubit of information and so our focus in this work is to explore whether loss-based quantum error correction utilizing quantum multiplexed photons is viable and advantageous, especially as photon loss results in more than one qubit of information being lost.
 
 [arxiv](https://arxiv.org/abs/1907.02240)
+
+<hr>
+
+### Decoding Quantum Error Correction Codes with Local Variation
+
+<div style="float: right;">2019</div>
+Michael Hanks, William J. Munro, Kae Nemoto
+
+> In this paper we investigate the role of local information in the decoding of the repetition and surface error correction codes for the protection of quantum states. Our key result is an improvement in resource efficiency when local information is taken into account during the decoding process: the code distance associated with a given logical error rate is reduced with a magnitude depending on the proximity of the physical error rate to the accuracy threshold of the code. We also briefly discuss an averaged approach with local information for table-lookup and localised decoding schemes, an expected breakdown of these effects for large-scale systems, and the importance of this resource reduction in the near-term.
+
+<div style="float: right;"><a href="https://arxiv.org/abs/1912.09635">arXiv</a></div>
+[IEEE Transaction on Quantum Engineering](https://ieeexplore.ieee.org/document/8963756)
+
 
 <hr>
 
