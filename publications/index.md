@@ -13,7 +13,7 @@ Michael Hanks, William J. Munro, Kae Nemoto
 > In this paper we investigate the role of local information in the decoding of the repetition and surface error correction codes for the protection of quantum states. Our key result is an improvement in resource efficiency when local information is taken into account during the decoding process: the code distance associated with a given logical error rate is reduced with a magnitude depending on the proximity of the physical error rate to the accuracy threshold of the code. We also briefly discuss an averaged approach with local information for table-lookup and localised decoding schemes, an expected breakdown of these effects for large-scale systems, and the importance of this resource reduction in the near-term.
 
 <div style="float: right;"><a href="https://arxiv.org/abs/1912.09635">arXiv</a></div>
-[IEEE Transaction on Quantum Engineering](https://ieeexplore.ieee.org/document/8963756)
+[IEEE Transactions on Quantum Engineering](https://ieeexplore.ieee.org/document/8963756)
 
 
 <hr>
