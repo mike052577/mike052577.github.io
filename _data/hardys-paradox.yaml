@@ -229,6 +229,66 @@
   trailauthor: 'Mandel'
   doi: '10.1016/0375-9601(96)00122-3'
 
+- year: '1997'
+  title: 'Hardy''s nonlocality for mixed states'
+  leadauthor: 'Kar'
+  trailauthor: ''
+  doi: '10.1016/S0375-9601(97)00116-3'
+
+- year: '1997'
+  title: 'Uniqueness of Hardy''s state for fixed choice of observables'
+  leadauthor: 'Kar'
+  trailauthor: ''
+  doi: '10.1088/0305-4470/30/8/003'
+
+- year: '1997'
+  title: 'Testing Hardy''s nonlocality with n spin-1/2 particles'
+  leadauthor: 'Kar'
+  trailauthor: ''
+  doi: '10.1103/PhysRevA.56.1023'
+
+- year: '1997'
+  title: 'Observing Local Realism Violations with a Combination of Sensitive and Insensitive Detectors'
+  leadauthor: 'Yurke'
+  trailauthor: 'Stoler'
+  doi: '10.1103/PhysRevLett.79.4941'
+
+- year: '1998'
+  title: 'Nonlocality in the Many-Worlds and Consistent-Histories Interpretations'
+  leadauthor: 'Schafir'
+  trailauthor: ''
+  doi: '10.1023/A:1018744601551'
+
+- year: '1998'
+  title: 'Hardy''s nonlocality for two spin-s particles'
+  leadauthor: 'Ghosh'
+  trailauthor: 'Kar'
+  doi: '10.1016/S0375-9601(98)00048-6'
+
+- year: '1998'
+  title: 'Null test of quantum mechanics using two-photon down-conversion'
+  leadauthor: 'Hillery'
+  trailauthor: ''
+  doi: '10.1103/PhysRevA.57.3285'
+
+- year: '1998'
+  title: 'Hardy''s nonlocality for entangled states of three spin-1/2 particles'
+  leadauthor: 'Ghosh'
+  trailauthor: 'Sarkar'
+  doi: '10.1016/S0375-9601(98)00306-5'
+
+- year: '1998'
+  title: 'Hardy''s theorem for n spin-s particles in entanglement'
+  leadauthor: 'Wu'
+  trailauthor: 'Hsia'
+  doi: '10.1088/0253-6102/30/1/17'
+
+- year: '1998'
+  title: 'Spooky action at a distance in quantum mechanics [a review]'
+  leadauthor: 'Hardy'
+  trailauthor: ''
+  doi: '10.1080/001075198181757'
+
 
 
 
