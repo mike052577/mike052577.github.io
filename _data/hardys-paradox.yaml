@@ -289,8 +289,47 @@
   trailauthor: ''
   doi: '10.1080/001075198181757'
 
+- year: '1999'
+  title: 'Time-Symmetrized Counterfactuals in Quantum Theory'
+  leadauthor: 'Vaidman'
+  trailauthor: ''
+  doi: '10.1023/A:1018826607583'
 
+- year: '1999'
+  title: 'Consistent quantum counterfactuals'
+  leadauthor: 'Griffiths'
+  trailauthor: ''
+  doi: '10.1103/PhysRevA.60.R5'
 
+- year: '1999'
+  title: 'Bell''s locality condition confronting perfect anti-correlations'
+  leadauthor: 'Nowakowski'
+  trailauthor: ''
+  doi: '10.1016/S0375-9601(99)00517-4'
 
+- year: '1999'
+  title: 'Position-momentum local-realism violation of the Hardy type'
+  leadauthor: 'Yurke'
+  trailauthor: 'Stoler'
+  doi: '10.1103/PhysRevA.60.3444'
 
+- year: '2001'
+  title: 'The paradoxes of the interaction-free measurements'
+  leadauthor: 'Vaidman'
+  trailauthor: ''
+  doi: ''
+  arxiv: ''
+  url: 'https://www.degruyter.com/downloadpdf/j/zna.2001.56.issue-1-2/zna-2001-0115/zna-2001-0115.pdf'
+
+- year: '2001'
+  title: 'The Ithaca interpretation of quantum mechanics, and objective probabilities'
+  leadauthor: 'McCall'
+  trailauthor: ''
+  doi: '10.1023/A:1012037513872'
+
+- year: '2001'
+  title: 'Do we really understand quantum mechanics? Strange correlations, paradoxes, and theorems'
+  leadauthor: 'Laloe'
+  trailauthor: ''
+  doi: '10.1119/1.1356698'
 
