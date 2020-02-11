@@ -595,5 +595,17 @@
   trailauthor: 'Rand'
   doi: '10.1103/physrevb.53.13441'
 
+- year: '2008'
+  title: 'Ab initio supercell calculations on nitrogen-vacancy center in diamond: Electronic structure and hyperfine tensors'
+  leadauthor: 'Gali'
+  trailauthor: 'Kaxiras'
+  doi: '10.1103/PhysRevB.77.155206'
+
+- year: '2011'
+  title: '13C hyperfine interactions in the nitrogen-vacancy centre in diamond'
+  leadauthor: 'Smeltzer'
+  trailauthor: 'Gali'
+  doi: '10.1088/1367-2630/13/2/025021'
+
 
 
