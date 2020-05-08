@@ -1,6 +1,6 @@
 name: Michael Hanks
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-mailaddress: hanks@nii.ac.jp
-homeaddress: https://mike052577.github.io
-github: https://github.com/mike052577
+#mailaddress: hanks@nii.ac.jp
+#homeaddress: https://mike052577.github.io
+#github: https://github.com/mike052577
